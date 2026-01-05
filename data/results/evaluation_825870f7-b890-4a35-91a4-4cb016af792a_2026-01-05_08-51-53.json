@@ -1,0 +1,97 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor actively encouraged questions multiple times throughout the session.",
+        "evidence": [
+          {
+            "timestamp": "00:40:26",
+            "quote": "The best learning is going to happen through interaction. Just treat me as a facilitator, so…"
+          },
+          {
+            "timestamp": "00:40:38",
+            "quote": "If you have a question, please raise… So that we all can hear that question."
+          },
+          {
+            "timestamp": "00:41:05",
+            "quote": "Just don't feel shy, or afraid, or, like, what people are going to think about the question."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "No single learner dominated the Q&A as questions were spread out and responses were balanced.",
+        "evidence": [
+          {
+            "timestamp": "02:06:38",
+            "quote": "Ikram, you want to say something? Please go ahead."
+          },
+          {
+            "timestamp": "02:07:08",
+            "quote": "So, what would you recommend or advise to where to start reading about these things?"
+          },
+          {
+            "timestamp": "02:15:31",
+            "quote": "Dr Roopesh Narayanachary: I have posted the… Couple of questions."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Were there instances where the mentor struggled to find information or answer questions due to a lack of preparation?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "The mentor answered questions without signs of hesitation or uncertainty.",
+        "evidence": [
+          {
+            "timestamp": "02:08:14",
+            "quote": "Just define the problem, like, what it is exactly, and then I'll give you some ideas."
+          },
+          {
+            "timestamp": "02:16:14",
+            "quote": "We do some feature engineering, we do some pre-processing, and we do… run some statistical analysis on the data."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Did the mentor dedicate enough time for Q&A?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor included Q&A throughout the session and encouraged interaction.",
+        "evidence": [
+          {
+            "timestamp": "02:06:36",
+            "quote": "Any questions anybody has?"
+          },
+          {
+            "timestamp": "02:12:31",
+            "quote": "Great, guys, I know we… I think our class usually go over the first one because of introductions, but thank you so much."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was the mentor able to answer learners' questions confidently and comprehensively?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor responded to all questions with detailed and confident answers.",
+        "evidence": [
+          {
+            "timestamp": "02:08:14",
+            "quote": "Just define the problem, like, what it is exactly, and then I'll give you some ideas."
+          },
+          {
+            "timestamp": "02:16:14",
+            "quote": "We do some feature engineering, we do some pre-processing, and we do… run some statistical analysis on the data."
+          }
+        ]
+      }
+    }
+  ]
+}

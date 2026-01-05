@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor actively encouraged questions multiple times, emphasizing the importance of interaction for learning.",
+        "evidence": [
+          {
+            "timestamp": "00:41:05",
+            "quote": "raise your hand, you can ask questions. The best learning is going to happen through interaction. Just treat me as a facilitator, so…"
+          },
+          {
+            "timestamp": "00:41:38",
+            "quote": "If you have a question, please raise…"
+          },
+          {
+            "timestamp": "00:40:55",
+            "quote": "Just don't feel shy, or afraid, or, like, what people are going to think about the question."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "There were various learners who asked questions, but no single learner dominated the Q&A to an excessive degree.",
+        "evidence": [
+          {
+            "timestamp": "02:06:10",
+            "quote": "where to start reading about these things?"
+          },
+          {
+            "timestamp": "01:39:56",
+            "quote": "I have one doubt."
+          },
+          {
+            "timestamp": "02:12:11",
+            "quote": "I have posted the… Couple of questions."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Were there instances where the mentor struggled to find information or answer questions due to a lack of preparation?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "The mentor answered questions confidently and provided clear explanations without showing signs of struggle or uncertainty.",
+        "evidence": []
+      }
+    },
+    {
+      "question": "Did the mentor dedicate enough time for Q&A?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "Multiple Q&A segments are present, with detailed interactions indicating sufficient time was allocated for questions.",
+        "evidence": [
+          {
+            "timestamp": "01:38:02",
+            "quote": "Any question? I know that there's a lot of talks, and there are a lot of you talking about. Any questions you have here?"
+          },
+          {
+            "timestamp": "02:12:11",
+            "quote": "So, the thing is that orthopedic surgeries like indications and..."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was the mentor able to answer learners' questions confidently and comprehensively?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor provided clear and structured answers with detailed explanations and examples, demonstrating confidence and comprehensiveness.",
+        "evidence": [
+          {
+            "timestamp": "02:06:52",
+            "quote": "define the problem, like, what it is exactly, and then I'll give you some ideas. Like, you know, when we have this endpoint in mind, now we can reverse engineer."
+          },
+          {
+            "timestamp": "01:41:55",
+            "quote": "I hope that answered your question, Harshita, because that's… basically, it all boils down to…"
+          }
+        ]
+      }
+    }
+  ]
+}

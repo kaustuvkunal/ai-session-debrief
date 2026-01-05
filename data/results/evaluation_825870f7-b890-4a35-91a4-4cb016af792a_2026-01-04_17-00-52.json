@@ -1,0 +1,54 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor actively encouraged learners to ask questions and clarified that their input was valuable to the session.",
+        "evidence": [
+          {
+            "timestamp": "00:40:05",
+            "quote": "If you want to say something, put it in the chat, too."
+          },
+          {
+            "timestamp": "00:40:32",
+            "quote": "The best learning is going to happen through interaction."
+          },
+          {
+            "timestamp": "00:40:38",
+            "quote": "If you have a question, please raise…"
+          },
+          {
+            "timestamp": "00:41:05",
+            "quote": "Please feel free to raise your questions."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "Questions were distributed among different learners, and no single learner overly dominated the session with excessive questions.",
+        "evidence": [
+          {
+            "timestamp": "01:40:57",
+            "quote": "I have one doubt."
+          },
+          {
+            "timestamp": "02:09:12",
+            "quote": "What would you recommend or advise to where to start reading about these things?"
+          },
+          {
+            "timestamp": "02:11:08",
+            "quote": "The problem is, I think, is the issue with interpretation of these things."
+          },
+          {
+            "timestamp": "02:10:45",
+            "quote": "Define the problem, like, what it is exactly."
+          }
+        ]
+      }
+    }
+  ]
+}

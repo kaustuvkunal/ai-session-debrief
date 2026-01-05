@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor consistently encouraged learners to ask questions by making multiple statements indicating that they were open to questions.",
+        "evidence": [
+          {
+            "timestamp": "00:41:22",
+            "quote": "So raise your hand, you can ask questions."
+          },
+          {
+            "timestamp": "00:41:41",
+            "quote": "...if you have a question, please raise…"
+          },
+          {
+            "timestamp": "00:47:22",
+            "quote": "...if you have that interest."
+          },
+          {
+            "timestamp": "02:06:09",
+            "quote": "Anybody else want to say something?"
+          }
+        ]
+      }
+    }
+  ]
+}

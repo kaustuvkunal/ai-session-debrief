@@ -1,0 +1,97 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor encouraged learners multiple times to ask questions and engage, emphasizing the importance of interactive learning.",
+        "evidence": [
+          {
+            "timestamp": "00:40:17",
+            "quote": "The best learning is going to happen through interaction. Just treat me as a facilitator..."
+          },
+          {
+            "timestamp": "00:41:02",
+            "quote": "If you have a question, please raise…"
+          },
+          {
+            "timestamp": "00:41:05",
+            "quote": "So that we all can hear that caution."
+          },
+          {
+            "timestamp": "00:41:06",
+            "quote": "There's no right or wrong answer. So please, one thing I would say about this program..."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "Questions were spread among multiple learners and did not disrupt the flow significantly.",
+        "evidence": [
+          {
+            "timestamp": "01:40:07",
+            "quote": "Any questions you have here?"
+          },
+          {
+            "timestamp": "02:05:06",
+            "quote": "Anybody else want to say something?"
+          }
+        ]
+      }
+    },
+    {
+      "question": "Were there instances where the mentor struggled to find information or answer questions due to a lack of preparation?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "The mentor answered questions confidently and provided detailed explanations without indicating uncertainty.",
+        "evidence": [
+          {
+            "timestamp": "01:39:55",
+            "quote": "Each one of them have their pros and cons and benefits..."
+          },
+          {
+            "timestamp": "02:09:28",
+            "quote": "Define the problem, like, what it is exactly, and then I'll give you some ideas..."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Did the mentor dedicate enough time for Q&A?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "Multiple segments were dedicated to Q&A, spanning a significant portion of the session, with detailed answers given.",
+        "evidence": [
+          {
+            "timestamp": "01:17:47",
+            "quote": "Any thoughts? Any thoughts? You can put it in chat, too."
+          },
+          {
+            "timestamp": "02:11:01",
+            "quote": "Now we can start to break it down in terms of the data you want to start with."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was the mentor able to answer learners' questions confidently and comprehensively?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor gave structured explanations, examples, and addressed suggestions without hesitation.",
+        "evidence": [
+          {
+            "timestamp": "01:40:59",
+            "quote": "Accuracy just tells you how well your model is predicting."
+          },
+          {
+            "timestamp": "02:12:10",
+            "quote": "Unfortunately, we'll not go very deep into it, because just by design, this program is done."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor actively encouraged questions multiple times throughout the session, prompting learners to ask questions and participate.",
+        "evidence": [
+          {
+            "timestamp": "00:26:26",
+            "quote": "Raise your hand, you can ask questions. The best learning is going to happen through interaction."
+          },
+          {
+            "timestamp": "00:41:05",
+            "quote": "Please feel free to raise your questions."
+          },
+          {
+            "timestamp": "01:08:12",
+            "quote": "Any questions you have here? I'll take a quick pause."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "No learner dominated the Q&A. Questions and discussions were shared among several learners without any one individual dominating.",
+        "evidence": []
+      }
+    },
+    {
+      "question": "Were there instances where the mentor struggled to find information or answer questions due to a lack of preparation?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "The mentor answered questions confidently and provided clear and structured explanations, showing no signs of being unprepared.",
+        "evidence": []
+      }
+    },
+    {
+      "question": "Did the mentor dedicate enough time for Q&A?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor allocated significant time for Q&A, engaging with learners' queries and ensuring questions were addressed thoroughly.",
+        "evidence": [
+          {
+            "timestamp": "01:13:18",
+            "quote": "So please, throw out your eyes, and my role will be to make it as simple as possible for all of you."
+          },
+          {
+            "timestamp": "02:12:14",
+            "quote": "And we will talk about them as we go along. Let's talk about scalability."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was the mentor able to answer learners' questions confidently and comprehensively?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor provided detailed and comprehensive answers to learners' questions, often using examples and clarifying concepts.",
+        "evidence": [
+          {
+            "timestamp": "01:18:05",
+            "quote": "So, good question, Ashita. I think, you know, so…"
+          },
+          {
+            "timestamp": "02:04:10",
+            "quote": "Let's do this. There are a couple of things I'm hearing now..."
+          },
+          {
+            "timestamp": "02:10:55",
+            "quote": "We'll do that. So just define the problem, like, what it is exactly."
+          }
+        ]
+      }
+    }
+  ]
+}

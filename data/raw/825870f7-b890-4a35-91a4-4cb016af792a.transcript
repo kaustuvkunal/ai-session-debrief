@@ -1,0 +1,4534 @@
+WEBVTT
+
+1
+00:07:13.610 --> 00:07:16.680
+Faculty (Olympus): Hello, everyone. We'll give… excuse me.
+
+2
+00:07:16.850 --> 00:07:19.349
+Faculty (Olympus): Give folks a few more minutes to join, and then we'll start.
+
+3
+00:08:22.930 --> 00:08:29.750
+Faculty (Olympus): I see, individuals are still joining, so we'll maybe give one more minute before we start.
+
+4
+00:08:52.970 --> 00:08:59.489
+Faculty (Olympus): All right, I think we can get going. So, thank you for being here. This is our first session.
+
+5
+00:09:00.090 --> 00:09:05.030
+Faculty (Olympus): for your AI in Healthcare program, and I'm going to be your mentor.
+
+6
+00:09:05.540 --> 00:09:09.630
+Faculty (Olympus): For this program, for next, I believe, 9 to 10 weeks.
+
+7
+00:09:10.220 --> 00:09:12.090
+Faculty (Olympus): We will meet at this time.
+
+8
+00:09:12.200 --> 00:09:18.370
+Faculty (Olympus): And, I believe most of you are either…
+
+9
+00:09:18.600 --> 00:09:26.289
+Faculty (Olympus): in India, or Dubai, or that's part of the region. I'm based out of Boston. It's 9.30am my time right now.
+
+10
+00:09:26.650 --> 00:09:30.589
+Faculty (Olympus): And so, I would say, Good evening.
+
+11
+00:09:31.300 --> 00:09:36.900
+Faculty (Olympus): Good afternoon to all of you, and so what we usually do during our first session?
+
+12
+00:09:37.560 --> 00:09:51.160
+Faculty (Olympus): If you… if it's at all possible, I think if it's comfortable with all of you, maybe just for first session, if you all can come online with your videos turned on, so that we can go through a quick round of introduction.
+
+13
+00:09:51.550 --> 00:09:56.169
+Faculty (Olympus): And then we can jump right into the content that I'm going to cover today.
+
+14
+00:09:56.640 --> 00:09:58.659
+Faculty (Olympus): So, we'll…
+
+15
+00:09:59.120 --> 00:10:05.909
+Faculty (Olympus): Try to go, as quickly as possible through introductions, because we have a lot to cover.
+
+16
+00:10:06.320 --> 00:10:11.260
+Faculty (Olympus): So maybe if you can spend one minute introducing yourself.
+
+17
+00:10:11.590 --> 00:10:21.129
+Faculty (Olympus): Let me bring up my deck so that you know what I'm hoping to get out of this introduction today. Just give me one second. Let me share my screen.
+
+18
+00:10:34.770 --> 00:10:39.559
+Faculty (Olympus): Okay… And you all can see my screen okay, right?
+
+19
+00:10:42.160 --> 00:10:45.610
+Faculty (Olympus): Thumbs up, okay, it's fine, I think you can just let me know.
+
+20
+00:10:46.500 --> 00:10:52.809
+Faculty (Olympus): And, okay, so this is what I'm hoping to…
+
+21
+00:12:13.440 --> 00:12:17.839
+Shruti Nair: Hi, sorry, we can't seem to hear you, I think we've lost your voice.
+
+22
+00:12:18.630 --> 00:12:19.630
+Shruti Nair: Kiddo.
+
+23
+00:12:19.760 --> 00:12:25.960
+Faculty (Olympus): Thank you, Shudi, for… I just realized I was talking on mute. My apologies.
+
+24
+00:12:26.390 --> 00:12:45.920
+Faculty (Olympus): So now what I was saying, so this is our first session, so please, whoever wants to go first, please go with your introduction. Take one minute. We'll try to go through this pretty quickly, because we have a lot to cover. So if you can stick to one minute, please do. And if you can come online, just for introduction, you can turn it off right after.
+
+25
+00:12:46.030 --> 00:12:49.630
+Faculty (Olympus): That would be wonderful. So whoever wants to go, please, go ahead.
+
+26
+00:12:51.470 --> 00:12:53.120
+Ahmed Reda Mohammed Badawy Khalifa .: So, can I start, please?
+
+27
+00:12:53.530 --> 00:12:54.660
+Faculty (Olympus): Yes, please, yes.
+
+28
+00:12:54.660 --> 00:13:14.809
+Ahmed Reda Mohammed Badawy Khalifa .: So, I am Dr. Ahmed Radha, I am a urology consultant. Actually, I'm from Egypt, but I work in Saudi German Hospital in Ajmer and Sharjah. I am 43 years old, and I think my whole experience with AI in healthcare was the claim forms that we have from all our patients, and we send to insurance companies and back.
+
+29
+00:13:14.850 --> 00:13:35.199
+Ahmed Reda Mohammed Badawy Khalifa .: And of course, my goal is to know what can I do more with AI in the healthcare system, because it's the coming future in healthcare system, and it's one of the most industrious that it can be applied there. So, I want to keep up with this, and I'm here happy to be with you, and to join your course. Thank you.
+
+30
+00:13:35.740 --> 00:13:38.149
+Faculty (Olympus): Thank you, Ahmed. And you go by Ahmed, right?
+
+31
+00:13:38.610 --> 00:13:39.460
+Ahmed Reda Mohammed Badawy Khalifa .: Yes, Ahmed.
+
+32
+00:13:40.360 --> 00:13:41.120
+Faculty (Olympus): Thank you.
+
+33
+00:13:44.840 --> 00:13:47.129
+Faculty (Olympus): Anyone wants to go next, please take…
+
+34
+00:13:47.130 --> 00:13:58.479
+Dr Anand Deshpande .: Oh, hi. I will go ahead. I'm Anand Dishpande. I'm a consultant transfusion medicine, hematologist, transplant immunology at Hindija Hospital, Mumbai, India.
+
+35
+00:13:59.100 --> 00:14:10.600
+Dr Anand Deshpande .: Regarding exposure, yes, I had done a couple of small projects with AI in my field. My area of expertise, that is transfusion medicine and transplant immunology.
+
+36
+00:14:10.820 --> 00:14:21.370
+Dr Anand Deshpande .: And, my expectations… I should get enough knowledge so that I can really go ahead in this field of AI. That is my aim.
+
+37
+00:14:22.050 --> 00:14:23.629
+Dr Anand Deshpande .: Thank you very much.
+
+38
+00:14:23.930 --> 00:14:25.530
+Faculty (Olympus): Thank you, Anand. Thank you.
+
+39
+00:14:30.160 --> 00:14:31.870
+Faculty (Olympus): Whoever wants to go in that space.
+
+40
+00:14:33.790 --> 00:14:42.790
+Ahmad: My name is Hadiasmina. Now, my role is founder of an AI company. We are working on insurance technologies.
+
+41
+00:14:42.890 --> 00:14:45.249
+Ahmad: Especially in health insurance technologies.
+
+42
+00:14:45.390 --> 00:14:55.390
+Ahmad: I have more than 18 years of experience in the IT field, and now I am a founder of, since 3 years, an insure tech company.
+
+43
+00:14:55.650 --> 00:15:11.049
+Ahmad: our exposure with healthcare and AI, that we are now managing health insurance operations using the AI technologies, and I believe this course will add a lot of value to my career and to my goals within my company currently.
+
+44
+00:15:12.250 --> 00:15:13.449
+Faculty (Olympus): Thank you, Ahmed.
+
+45
+00:15:14.220 --> 00:15:16.459
+Aravindh Sivanandan Anand .: I… can I go next?
+
+46
+00:15:16.810 --> 00:15:17.840
+Faculty (Olympus): Yes, please.
+
+47
+00:15:18.120 --> 00:15:33.140
+Aravindh Sivanandan Anand .: I'm Dr. Anand. Sorry, I don't have the camera, so I cannot… something wrong with my camera. So, I'm Dr. Anand… Arvinda Anand. So, I am working as a clinical oncologist in government Medicare College in Kerala.
+
+48
+00:15:33.160 --> 00:15:46.020
+Aravindh Sivanandan Anand .: Basically, I'm a clinical oncologist. I'm into the teaching, research, and patient care. I'm relatively new to AI, but I expect that there'll be more development in this field
+
+49
+00:15:46.250 --> 00:16:01.320
+Aravindh Sivanandan Anand .: basically in the oncology speciality. So I thought, better, I'll be, get more information and more knowledge, and how could I utilize these AI applications into my clinical practice if it is
+
+50
+00:16:01.460 --> 00:16:05.189
+Aravindh Sivanandan Anand .: Then, Broad Beyond Doubt.
+
+51
+00:16:06.000 --> 00:16:18.860
+Aravindh Sivanandan Anand .: And… that's it. And one more thing is, I want to do some research activities in the field of AI and oncology, but I don't have any idea at all how to do all these things, like…
+
+52
+00:16:18.860 --> 00:16:28.210
+Aravindh Sivanandan Anand .: Basically, I'm just in the kindergarten now, so I hope you will help us, and that is the whole purpose of doing this course.
+
+53
+00:16:28.210 --> 00:16:29.460
+Aravindh Sivanandan Anand .: Thank you so much.
+
+54
+00:16:29.950 --> 00:16:30.919
+Faculty (Olympus): Thank you, Anand.
+
+55
+00:16:31.930 --> 00:16:32.890
+Mohamed Ebraheem Elmesserey .: Can I go?
+
+56
+00:16:33.580 --> 00:16:34.530
+Faculty (Olympus): Yes, please.
+
+57
+00:16:34.740 --> 00:16:43.429
+Mohamed Ebraheem Elmesserey .: Yeah, my name is Mohammad al-Musiri, I'm Consultant Bariatric at Algeria Children's Specialty Hospital and the head of post-acute rehabilitation Unit.
+
+58
+00:16:43.720 --> 00:16:48.329
+Mohamed Ebraheem Elmesserey .: I had quite a few experience with AI, it comes merely through research work.
+
+59
+00:16:48.600 --> 00:17:00.160
+Mohamed Ebraheem Elmesserey .: So, my aim from the course to improve my knowledge and to see how much I can use AI more and more in my field of PS. Thank you so much.
+
+60
+00:17:00.930 --> 00:17:04.740
+Faculty (Olympus): Thank you. And you go by Muhammad, Ibrahim, like, how do you…
+
+61
+00:17:04.740 --> 00:17:06.560
+Mohamed Ebraheem Elmesserey .: Yeah, Muhammad Ibrahim and Masir.
+
+62
+00:17:07.880 --> 00:17:08.430
+Mohamed Ebraheem Elmesserey .: Perfect, thank you.
+
+63
+00:17:08.430 --> 00:17:10.220
+Dr Ikram Ahmed .: Hello? Can I go?
+
+64
+00:17:10.220 --> 00:17:11.180
+Faculty (Olympus): Yes, please.
+
+65
+00:17:11.790 --> 00:17:20.219
+Dr Ikram Ahmed .: Hi, my name is Dr. Ikram Ahmed. I'm a new graduate from a speciality of obstetrics and Gynecology in Emirates.
+
+66
+00:17:20.430 --> 00:17:35.980
+Dr Ikram Ahmed .: 34 years old. I'm interested, actually, into the AI, because I plan to, have more innovative and research, based into the AI with obstetrics and human health.
+
+67
+00:17:36.180 --> 00:17:39.290
+Dr Ikram Ahmed .: And actually, my main goals, cause I was…
+
+68
+00:17:39.590 --> 00:17:53.139
+Dr Ikram Ahmed .: I have a vision to, like, innovate something that's related with the fetal monitoring, because we have, high-risk pregnancies, in the… in this region. So, this is…
+
+69
+00:17:53.140 --> 00:18:08.039
+Dr Ikram Ahmed .: the main outcomes that I'm expected to gain from this, course, to have the basics and fundamentals to apply this, into real-world, practice, actually, in the women health, and to develop this,
+
+70
+00:18:08.300 --> 00:18:10.809
+Dr Ikram Ahmed .: The fetal monitoring thing.
+
+71
+00:18:10.950 --> 00:18:20.429
+Dr Ikram Ahmed .: So, just to gain the general concepts and all of that, and also to connect with people who are interested also to collaborate and be a part of it.
+
+72
+00:18:20.550 --> 00:18:22.220
+Dr Ikram Ahmed .: So, yeah, thank you.
+
+73
+00:18:23.000 --> 00:18:28.810
+Faculty (Olympus): Thank you, Krum. I think you already… and I think it's an excellent point you raised, guys, just to take 10 seconds.
+
+74
+00:18:28.840 --> 00:18:43.969
+Faculty (Olympus): if you have ideas like these, please, please come up with those, because I think if you start with that, now you have a goal that you can follow through the program. So, thank you for sharing that, Ikram. I think that's an excellent, excellent application. Yeah, thank you.
+
+75
+00:18:43.970 --> 00:18:45.119
+Dr Ikram Ahmed .: Thank you so much.
+
+76
+00:18:45.760 --> 00:19:02.749
+Shabrina Fathima .: Yeah, hi everyone. This is Dr. Shabrina here, and I mainly work, for a health insurance company, so I head the pre-authorization department. I work, currently based in Dubai, and the company I work is now Health International.
+
+77
+00:19:02.750 --> 00:19:07.350
+Shabrina Fathima .: So basically, we are a global IPMI, and
+
+78
+00:19:07.650 --> 00:19:18.789
+Shabrina Fathima .: The main reason for taking up this course is to check on, you know, what, you know, efficiency we could bring in for claims, pre-authorization, basically,
+
+79
+00:19:18.790 --> 00:19:28.790
+Shabrina Fathima .: and, you know, what can be automated by using AI technologies, and what AI can bring into the world of health insurance, basically.
+
+80
+00:19:28.790 --> 00:19:53.449
+Shabrina Fathima .: So, I think the first few videos which we have been seeing, and, you know, I think it… I can see that, you know, it's going to be quite helpful for us, so that would, you know, it would be really a good project to take on, in an insurance company. Now, we can see a lot of, lot, lot, companies approaching us, and probably at the initial stages, we really don't understand that, but I think this course is…
+
+81
+00:19:53.450 --> 00:20:04.259
+Shabrina Fathima .: just within two days, through this first week, I think, slightly, you know, gaining a little knowledge and much more to come. So, yeah, looking forward for it. Thank you.
+
+82
+00:20:04.730 --> 00:20:05.719
+Faculty (Olympus): Thanks, Suprena.
+
+83
+00:20:07.240 --> 00:20:08.439
+Shruti Nair: Can I go next?
+
+84
+00:20:08.860 --> 00:20:09.760
+Faculty (Olympus): Yes, please.
+
+85
+00:20:09.980 --> 00:20:24.029
+Shruti Nair: Hi, so my name is Shruti Nair, I'm currently based in Bangalore, India. My background is in the field of mental health, so I've been working as a counseling psychologist for the last, 6 plus years.
+
+86
+00:20:24.190 --> 00:20:38.549
+Shruti Nair: And I work for a performance and health intelligence, clinic, so I think what I'm trying to get out of this program is… and we do use quite an extensive bit of technology and biofeedback and neurofeedback,
+
+87
+00:20:38.610 --> 00:20:57.189
+Shruti Nair: to gain a better understanding of the mind-body connection. So I think my goal is to understand how we can use AI in terms of the mental health framework to make sure that, you know, the intervention rate, the patient intervention, and all of that is a lot more streamlined, reducing, like, the sort of error
+
+88
+00:20:57.240 --> 00:21:09.369
+Shruti Nair: I think human error that comes in, or like, you know, the assumption-based thing. So I think that's very nascent at this stage in India, as to… and I would like to, you know, sort of get into that
+
+89
+00:21:09.370 --> 00:21:20.259
+Shruti Nair: a lot more in the beginning, and sort of try and set it so that, you know, you're kind of ahead of the curve. And I think there are lots of things in terms of just, you know, maintaining,
+
+90
+00:21:20.770 --> 00:21:36.809
+Shruti Nair: client notes, etc, that could also be a lot more streamlined. So I think as the mental health sector is also booming, I think it makes sense to have something like this, so that you're already kind of establishing, this sort of pre, you know, denoted system.
+
+91
+00:21:37.850 --> 00:21:42.439
+Faculty (Olympus): Thank you, Shruti. And mental health is another big area, area I…
+
+92
+00:21:42.680 --> 00:21:45.760
+Faculty (Olympus): is being used lately. So, thank you.
+
+93
+00:21:46.800 --> 00:21:47.879
+Dr Maulik Patel .: Can I go next?
+
+94
+00:21:48.230 --> 00:21:49.370
+Faculty (Olympus): Yes, please.
+
+95
+00:21:49.370 --> 00:21:59.230
+Dr Maulik Patel .: Yeah, I'm Dr. Mahalik Patel. I am based in Gujarat, India. Me and some of the doctors, we together founded a company, Mediate Healthcare, in 2016.
+
+96
+00:21:59.490 --> 00:22:02.820
+Dr Maulik Patel .: We are… I'm, by profession, I'm a dentist.
+
+97
+00:22:02.940 --> 00:22:06.819
+Dr Maulik Patel .: So, we are building community hospitals, occupational health centers.
+
+98
+00:22:06.990 --> 00:22:09.680
+Dr Maulik Patel .: And we are in the business of managing hospitals.
+
+99
+00:22:10.020 --> 00:22:20.969
+Dr Maulik Patel .: So, we are already working on some project where we can… we are using AI to build community services, especially, public screening programs. So, I think this course has been very helpful.
+
+100
+00:22:21.290 --> 00:22:23.199
+Dr Maulik Patel .: I am very thankful.
+
+101
+00:22:23.410 --> 00:22:26.619
+Dr Maulik Patel .: For being part of this cohort also. Thank you.
+
+102
+00:22:27.110 --> 00:22:28.170
+Faculty (Olympus): Thank you, Moleik.
+
+103
+00:22:28.460 --> 00:22:29.859
+Faculty (Olympus): Thanks for joining, yeah.
+
+104
+00:22:32.140 --> 00:22:33.570
+Abdul Aneez .: Hi, can you go next?
+
+105
+00:22:33.770 --> 00:22:34.810
+Faculty (Olympus): Yes, please.
+
+106
+00:22:35.460 --> 00:22:47.369
+Abdul Aneez .: I'm a doctor of the Lanese, I'm a concerned anesthesiologist. I'm sorry, my camera doesn't, we've got some glitches in camera. Well, I'm a concerned anesthesiologist. I work in Dubai. Been here for, like, around 18 years.
+
+107
+00:22:47.740 --> 00:23:06.500
+Abdul Aneez .: I also… I'm a part of the management of the hospital, so… but I'm totally new to AI, but then, wherever I see a potential is, since being an anesthesiologist, we use a lot of, machine monitoring systems, and, the clinical side, I was wondering, where probably we could,
+
+108
+00:23:06.850 --> 00:23:19.239
+Abdul Aneez .: You could use AI in predicting issues, anticipating problems, catching them, before a MSAP happens, or probably, you know, a disaster happens.
+
+109
+00:23:19.240 --> 00:23:31.449
+Abdul Aneez .: So, an aspect there where you can, using data, where the machine can… or probably AI, I'm sorry, AI can, give me that predictability factor, that this is something possible a lot more before than what we can.
+
+110
+00:23:31.450 --> 00:23:45.859
+Abdul Aneez .: And working in the ORs in extensive, difficult environments, I come across sometimes fatigue and things like these, which perhaps the AI can, you know, give me… give an edge over, human, understanding of issues.
+
+111
+00:23:45.990 --> 00:23:55.959
+Abdul Aneez .: Additionally, from the management side, I… being… I was the medical director as well, so I understand a lot of times, workflow efficiencies in anticipating,
+
+112
+00:23:56.370 --> 00:24:12.129
+Abdul Aneez .: patient movements, patient experiences, where, you know, I put in a couple of factors in, and then probably gives me a better understanding than what I would otherwise, anticipate or pick up. So, this is what I thought I could benefit from.
+
+113
+00:24:13.680 --> 00:24:14.629
+Faculty (Olympus): Thank you, Abdul.
+
+114
+00:24:15.420 --> 00:24:15.960
+Abdul Aneez .: Fair.
+
+115
+00:24:21.070 --> 00:24:22.600
+Faculty (Olympus): Who wants to go next?
+
+116
+00:24:26.990 --> 00:24:27.690
+Robert Latto .: Get out.
+
+117
+00:24:27.980 --> 00:24:28.839
+Robert Latto .: Oh, sorry.
+
+118
+00:24:28.840 --> 00:24:29.570
+Yamini Dubey: to go next.
+
+119
+00:24:29.570 --> 00:24:32.049
+Robert Latto .: Go ahead, I joined, I joined late, so…
+
+120
+00:24:32.050 --> 00:24:32.620
+Yamini Dubey: My apologies.
+
+121
+00:24:32.620 --> 00:24:33.589
+Robert Latto .: So just the…
+
+122
+00:24:33.960 --> 00:24:34.580
+Yamini Dubey: Okay.
+
+123
+00:24:34.850 --> 00:24:52.669
+Yamini Dubey: So, hi, I'm Dr. Yamini. I basically work as a revenue assurance lead for a south and east cluster for Manifal Hospitals. I'm from Bangalore. Why did I join? I have an exposure to health insurance claims because, previously I was working for a third-party administrator.
+
+124
+00:24:52.670 --> 00:24:56.149
+Yamini Dubey: I was into the government business for Ayushman Bharat.
+
+125
+00:24:56.230 --> 00:25:19.420
+Yamini Dubey: So, yeah, I do have an exposure to health, health insurance and claims processing. I was a processor and a risk, risk and auditor in, basically into investigation manager. So, yeah, and why did I join the course? I did join the course because I wanted to understand how do I automate my tools, my audit tools, basically.
+
+126
+00:25:19.480 --> 00:25:20.230
+Yamini Dubey: Yeah.
+
+127
+00:25:20.600 --> 00:25:21.910
+Faculty (Olympus): That's important.
+
+128
+00:25:24.320 --> 00:25:30.640
+Preethi K R .: Can I go next? Is that okay? Yes, yes, please, yeah? Yes, I'm… Dr. Preeti?
+
+129
+00:25:30.670 --> 00:25:53.439
+Preethi K R .: I'm from the health insurance background, so I've been into the health insurance field for the last two decades. Done a bit of automation, not the AI one, but the normal automation to do with the e-claims and the REIT claims, which is the claims from the UAE, so I think that the folks who are there in the UAE will understand that. So, I think more of AI
+
+130
+00:25:53.440 --> 00:26:04.160
+Preethi K R .: automation. So, we have seen a lot of, you know, folks for the companies which are giving you AI claims automation, so I head the claims team.
+
+131
+00:26:04.200 --> 00:26:12.310
+Preethi K R .: And, it would be quite interesting to know as to how we can automate and, you know, without having the…
+
+132
+00:26:13.120 --> 00:26:27.620
+Preethi K R .: human touch, so where… but you can increase your productivity and you can bring in less of manpower, which is our main objective. So I think this course will definitely help me to do and learn
+
+133
+00:26:27.620 --> 00:26:33.769
+Preethi K R .: more of that, because the company is almost there to do the AI.
+
+134
+00:26:33.770 --> 00:26:39.439
+Preethi K R .: automation. So I'll not, talk more here, because I have to give everybody a chance, so…
+
+135
+00:26:39.960 --> 00:26:42.380
+Preethi K R .: Thank you so much, bye. Thank you.
+
+136
+00:26:43.600 --> 00:26:44.560
+Faculty (Olympus): Thank you.
+
+137
+00:26:46.420 --> 00:26:48.220
+Faculty (Olympus): Yeah, I think,
+
+138
+00:26:48.220 --> 00:26:51.660
+Robert Latto .: Sorry. Yeah, sorry. Can you hear me okay, yeah?
+
+139
+00:26:51.660 --> 00:26:52.620
+Faculty (Olympus): Yes, yes we can.
+
+140
+00:26:52.620 --> 00:27:02.100
+Robert Latto .: Yeah, okay, hello everybody, and nice to hear some voices, from Dubai, and also in India, so happy to be part of the group.
+
+141
+00:27:02.230 --> 00:27:08.899
+Robert Latto .: I… obviously, you can hear from my accent originally from Scotland. I've been in Dubai now for 8 years.
+
+142
+00:27:09.060 --> 00:27:15.999
+Robert Latto .: And I'm the Deputy Director of Nursing in the same hospital facility as Dr. L. Messeri, so it's great to have a
+
+143
+00:27:16.060 --> 00:27:19.880
+Robert Latto .: a fellow, Aljalila paediatric,
+
+144
+00:27:19.920 --> 00:27:30.489
+Robert Latto .: perspective here, because I think, obviously, with pediatrics, the predictive algorithms and predictive safety measures for AI get far more complicated,
+
+145
+00:27:30.490 --> 00:27:44.209
+Robert Latto .: vital signs are far different through the pediatric age group than it is for adults. Being at the level I'm at, I'm seeking to… I noticed there was a comment on the group, and it's great to be part of the group about
+
+146
+00:27:44.250 --> 00:27:53.680
+Robert Latto .: teaching algorithms to care. I want the algorithms to release time to care, and I think that's where the greatest leverage for AI can come in healthcare.
+
+147
+00:27:53.680 --> 00:28:05.730
+Robert Latto .: Not to replace the caring element, but to enhance it. So I'm looking forward to learning more about it, and how we can leverage that to make people's experience of healthcare better.
+
+148
+00:28:07.380 --> 00:28:08.120
+Faculty (Olympus): Thank you, Robert.
+
+149
+00:28:13.530 --> 00:28:16.929
+Faculty (Olympus): So, who wants to go next?
+
+150
+00:28:16.930 --> 00:28:18.799
+Sajeda AlAli .: Can I go ahead? Can I go ahead?
+
+151
+00:28:18.800 --> 00:28:21.769
+Faculty (Olympus): Please. Yes, please, and… yeah, please go ahead.
+
+152
+00:28:21.970 --> 00:28:34.030
+Sajeda AlAli .: Okay, sorry, I can't open the camera, actually, because I'm at home, so it's an evening for me in Dubai. Hi, everyone. I think so it's good morning and good evening for some of us.
+
+153
+00:28:34.140 --> 00:28:47.569
+Sajeda AlAli .: And, I would like to give a brief introduction about myself, being sure that I don't take much of the time of the attendees. My name is Saj Dhar Ali, Dr. Saj Dahar Ali, I'm a specialist in public health.
+
+154
+00:28:47.830 --> 00:28:49.859
+Sajeda AlAli .: And a PhD candidate.
+
+155
+00:28:50.200 --> 00:29:04.950
+Sajeda AlAli .: in healthcare quality management, in Department of Health. At the moment, my interest in AI and its specifications is because we are working on, like, dashboards, developing dashboards for patient data.
+
+156
+00:29:05.120 --> 00:29:24.970
+Sajeda AlAli .: developing dashboards on patient care and studying the actual epidemiology and the statistical functionality of those datas of those patients, either disease patients or even the patients for, like, a follow-up, and so on. Here is where we want to understand how we can apply the AI
+
+157
+00:29:25.210 --> 00:29:27.270
+Sajeda AlAli .: And also.
+
+158
+00:29:27.980 --> 00:29:43.480
+Sajeda AlAli .: be able to understand how we can actually interpret that… interpret that data, that's patient data, that's a mere patient data, and turn it into an understanding language for the AI systems to understand in a very brief and precise way, and to benefit.
+
+159
+00:29:43.540 --> 00:29:53.279
+Sajeda AlAli .: also, and then get hold of those, systems, the new systems that we are applying. We have, like, new systems, called Malefi.
+
+160
+00:29:53.320 --> 00:30:07.230
+Sajeda AlAli .: If you just go and Google and you'll find it. It's Americanly well known in Abu Dhabi. So, we are working on those, developing those dashboards for patient data and so on, either chronic diseases or even communicable diseases. Here's where the link comes.
+
+161
+00:30:07.260 --> 00:30:22.169
+Sajeda AlAli .: for the AI, and here is where my interest comes, to be able to understand how it actually functions, because I'm… I'm a pathologist by… by functionality and by specification, but at the moment, I'm a public health specialist.
+
+162
+00:30:22.170 --> 00:30:28.860
+Sajeda AlAli .: And it's like a mirror, all thinking about healthcare data, healthcare management, quality, and so on. Here is where it goes on.
+
+163
+00:30:29.490 --> 00:30:31.990
+Sajeda AlAli .: So, that's weird. Thank you so much.
+
+164
+00:30:32.580 --> 00:30:33.950
+Faculty (Olympus): Thank you, Citra
+
+165
+00:30:34.440 --> 00:30:46.289
+Faculty (Olympus): a lot of information, and you know, pathology, obviously, that's an excellent area, too. Dashboards, automation through AI, another excellent area. And I'm hearing a lot of insurance, too, so a lot of
+
+166
+00:30:46.520 --> 00:30:53.019
+Faculty (Olympus): variety of, backgrounds, which is going to enrich everybody's learning, so thank you.
+
+167
+00:30:54.660 --> 00:30:57.019
+Faculty (Olympus): Anybody else want to go first? And I think I've.
+
+168
+00:30:57.020 --> 00:30:59.000
+Dr Latasheoran .: Next.
+
+169
+00:30:59.650 --> 00:31:01.619
+Faculty (Olympus): Yes, please. Your voice…
+
+170
+00:31:01.620 --> 00:31:03.239
+Dr Latasheoran .: I would like to go next.
+
+171
+00:31:03.940 --> 00:31:04.960
+Faculty (Olympus): Please go ahead, yeah.
+
+172
+00:31:06.200 --> 00:31:07.240
+Dr Latasheoran .: Breaking?
+
+173
+00:31:08.050 --> 00:31:12.809
+Dr Latasheoran .: Okay, hi, I would like to introduce myself.
+
+174
+00:31:13.190 --> 00:31:19.319
+Dr Latasheoran .: Yeah, okay. I think my internet is not that stable here.
+
+175
+00:31:19.870 --> 00:31:34.609
+Dr Latasheoran .: That might be the reason. So, hi, I'm Dr. Lata Sharon. I'm a consultant microbiologist, and I'm heading the Department of Clinical Microbiology and Immunology in a tertiary care center in… which is a corporate center in Nordic.
+
+176
+00:31:34.860 --> 00:31:51.919
+Dr Latasheoran .: So, I would say I'm the most illiterate person in terms of AI in this group, maybe. So, I don't know anything about… I'm just… I'm the one who is… who will be starting from ABC, and may be able to make some sentences and comprehend some paragraphs in terms of AI.
+
+177
+00:31:51.920 --> 00:31:57.769
+Dr Latasheoran .: But what, has motivated me to join this course was the…
+
+178
+00:31:57.800 --> 00:32:10.210
+Dr Latasheoran .: I am a diagnostician. So, I am dealing with patients, I am dealing with a lot of data, because the amount of data we generate in diagnostics is much more than
+
+179
+00:32:10.210 --> 00:32:17.989
+Dr Latasheoran .: In any of the clinical branches. So, it can help me to, give, meaning to that data.
+
+180
+00:32:18.000 --> 00:32:34.169
+Dr Latasheoran .: And it can help, as we are going ahead in time, so I think there will be, and I'm sure, I don't think it, this is already happening in a lot of places, that AI is going to help you in terms of…
+
+181
+00:32:34.250 --> 00:32:51.490
+Dr Latasheoran .: In terms of machines and innovations and everything. So, I want to be, I don't do it behind in timeline, and then learn later on. So, I want to learn in the real time. I want to grow with here.
+
+182
+00:32:51.600 --> 00:33:02.539
+Dr Latasheoran .: So, this is what, I would say curiosity get, me into this thing. So, hoping I will do something useful with this AI.
+
+183
+00:33:02.810 --> 00:33:03.740
+Dr Latasheoran .: Thank you.
+
+184
+00:33:05.310 --> 00:33:07.300
+Faculty (Olympus): Thank you, Leta. Thanks for joining.
+
+185
+00:33:09.720 --> 00:33:11.010
+Harshitha Reddy .: Can I go next?
+
+186
+00:33:11.290 --> 00:33:12.640
+Faculty (Olympus): Yes, please, Harshita.
+
+187
+00:33:12.930 --> 00:33:35.449
+Harshitha Reddy .: Okay, so I'm Harshita. I'm sorry, I'm trying to… I was trying to open my video since that time, whether there's something wrong with it. I have to leave the meeting to open it, so I'll just go with the audio for now. So I'm just a newly graduate, from my MPBS, it's just 5 years of my med school now, so it's kind of intimidating to face many of you now, but yeah, but I'm ready for this, so…
+
+188
+00:33:35.470 --> 00:34:00.439
+Harshitha Reddy .: What do I know about AI? I honestly don't know much about it. Personally, I just use the OpenAIs, and I've seen how it helped me in a lot of ways, so I would like to know more about it, so I could use it in many ways, because I was always interested in research and business, but we don't have much of those opportunities in any of our colleges over here. So if… I just finished my UG, and I have time to join my PG now, so I'm thinking this is one of… like, I was
+
+189
+00:34:00.440 --> 00:34:11.669
+Harshitha Reddy .: actually planning to join any AI courses, not in particular to healthcare, but I was planning to know about AI because I don't know much about it. And when I've seen this John Hopkins thing about AI in healthcare, that's what interested me.
+
+190
+00:34:11.670 --> 00:34:24.559
+Harshitha Reddy .: And, it might seem like I'm too young for it, but I feel like, this is actually a right point… right time to start, because, I can probably integrate with my PG training and, come up with more innovations, yeah.
+
+191
+00:34:24.900 --> 00:34:35.199
+Harshitha Reddy .: That's all. And I'm also interested in emergency medicine, more towards that, and I feel like in India, with the population that we have, AI could do wonders, so yeah, so I want to see where it could lead to.
+
+192
+00:34:35.760 --> 00:34:36.940
+Harshitha Reddy .: Sure. Thank you.
+
+193
+00:34:36.949 --> 00:34:44.759
+Faculty (Olympus): And don't be intimidated, I'm telling you, I think it's such a new area, we all are learning every day, so…
+
+194
+00:34:45.889 --> 00:34:52.699
+Faculty (Olympus): Most likely, you will be on the same playing field with a lot of us, so don't worry about that.
+
+195
+00:34:52.699 --> 00:34:54.439
+Harshitha Reddy .: Yeah, surely, thank you.
+
+196
+00:34:54.440 --> 00:35:05.059
+Faculty (Olympus): Yeah, and so I think whoever wants to go first, and I do want to actually conclude our introduction as soon as possible, so please, who wants to go?
+
+197
+00:35:05.060 --> 00:35:05.539
+Alagu A .: Can I go.
+
+198
+00:35:05.540 --> 00:35:08.949
+Faculty (Olympus): Yes. Yes, please. Yes, please. Yes.
+
+199
+00:35:09.450 --> 00:35:10.760
+Alagu A .: Yeah, can you see me?
+
+200
+00:35:11.060 --> 00:35:11.790
+Faculty (Olympus): Yes.
+
+201
+00:35:12.200 --> 00:35:20.560
+Alagu A .: Yeah. Hi, my name is Dr. Alagu. I'm an anesthesiologist, right now working in, Oman, in the Ministry of Health.
+
+202
+00:35:20.700 --> 00:35:30.100
+Alagu A .: I was in India, in… for… till I… I studied everything in India, and I've moved to Oman a few months ago.
+
+203
+00:35:30.280 --> 00:35:41.509
+Alagu A .: And, what do I, you know, why did I choose, why did I choose AI? Because I'm quite interested. A lot of our, anesthesia machines have AI built in them.
+
+204
+00:35:41.640 --> 00:35:50.590
+Alagu A .: So I knew… I know that the next step towards clinical… improving clinical efficacy… efficacy and improved patient outcome
+
+205
+00:35:50.810 --> 00:35:54.770
+Alagu A .: Based on… with respect to evidence-based medicine.
+
+206
+00:35:54.990 --> 00:36:10.790
+Alagu A .: has gone the AI way, and I think we need to keep up… oppressed with whatever is happening, and I think that's exactly why I chose AI in healthcare, and I think this just fell out of my lap, and the opportunity, and I'm at, you know, I'm at a position where I can spend some time on this.
+
+207
+00:36:11.120 --> 00:36:27.870
+Alagu A .: So yeah, that's why. And how much do I know about AI? Not much, I'm just about reading it. I'm still reading books, about it. And, I'm trying to understand what is AI, and different types of AI and everything, so I'm quite, you know, quite an amateur, quite a wise in it, I think.
+
+208
+00:36:28.100 --> 00:36:30.920
+Alagu A .: Yeah, thank you so much. Thank you so much for the opportunity.
+
+209
+00:36:31.260 --> 00:36:32.450
+Faculty (Olympus): Thanks for joining.
+
+210
+00:36:32.590 --> 00:36:33.610
+Alagu A .: Yeah. Shit.
+
+211
+00:36:34.320 --> 00:36:35.629
+Dr Roopesh Narayanachary .: Can I go next?
+
+212
+00:36:35.970 --> 00:36:36.910
+Faculty (Olympus): Yes, please.
+
+213
+00:36:37.860 --> 00:36:38.740
+Dr Roopesh Narayanachary .: Hello.
+
+214
+00:36:40.950 --> 00:36:56.350
+Dr Roopesh Narayanachary .: Yeah, can you see me? Yes, hi. I'm Dr. Rupaesh. I'm a gynecologic oncosurgeon, a peritoneal cancer surgeon specialist, and also a robotic surgeon.
+
+215
+00:36:56.580 --> 00:37:00.000
+Dr Roopesh Narayanachary .: Yeah, it's a very niche subspeciality, what I practice.
+
+216
+00:37:00.630 --> 00:37:09.509
+Dr Roopesh Narayanachary .: I practice in India, in Bangalore, and not just into a surgical field, but I'm also into innovation.
+
+217
+00:37:09.640 --> 00:37:18.870
+Dr Roopesh Narayanachary .: So, that is, when I, I'm into certain devices, for, cancer detection.
+
+218
+00:37:19.050 --> 00:37:27.830
+Dr Roopesh Narayanachary .: So that is when, I met a couple of, you know, AI engineers, like, so, wherein I was,
+
+219
+00:37:28.090 --> 00:37:30.950
+Dr Roopesh Narayanachary .: Highly motivated to learn the basics, because
+
+220
+00:37:31.030 --> 00:37:49.840
+Dr Roopesh Narayanachary .: they know the intricacies of using AI, ML in various aspects of the innovation process, but I also was genuinely inspired to know at least the basics and try to, you know, sync with them.
+
+221
+00:37:49.840 --> 00:38:00.500
+Dr Roopesh Narayanachary .: that helps me sync with them and in the process. So this is one keen area, or keen interest, what actually prompted me to get into this. If not,
+
+222
+00:38:00.760 --> 00:38:04.070
+Dr Roopesh Narayanachary .: Otherwise, also, we have extensive data.
+
+223
+00:38:04.070 --> 00:38:25.070
+Dr Roopesh Narayanachary .: Wherein, you know, I personally have been doing such niche work, and but I haven't… I find it very difficult to publish, because being a surgeon, you do the entire job. See, even now, I actually came from the hospital finishing my operative notes, so many a times, I feel that, you know, there should be something which minimizes human effort.
+
+224
+00:38:25.070 --> 00:38:49.999
+Dr Roopesh Narayanachary .: And I'm sure that AI will definitely, if it's well-trained, if it's well conceptualized, I'm sure that we will be able to utilize it in the right way, at right junctures, at various places, so that it increases our productivity, because now doing… we are into so many things that we are doing so much, and we are losing it out time. We are losing our time, personal time. So, I think AI is something which will definitely reduce
+
+225
+00:38:50.000 --> 00:38:53.780
+Dr Roopesh Narayanachary .: our time and make us more productive, so that's why I'm here.
+
+226
+00:38:53.810 --> 00:38:58.919
+Dr Roopesh Narayanachary .: And happy to see many other clinicians, and even an anesthesiologist also being there.
+
+227
+00:38:59.910 --> 00:39:01.059
+Faculty (Olympus): Thank you, Rupesh.
+
+228
+00:39:04.340 --> 00:39:05.910
+Faculty (Olympus): Okay,
+
+229
+00:39:06.920 --> 00:39:13.310
+Faculty (Olympus): If I go, or you're more than happy to post on the chat as well, if you're not feeling comfortable.
+
+230
+00:39:15.560 --> 00:39:22.389
+Faculty (Olympus): Before we jump onto the content, I just want to give everybody an opportunity, if they want to introduce who we may have missed.
+
+231
+00:39:22.580 --> 00:39:33.150
+Faculty (Olympus): It's a big group, so this is the first group that's, I've found, the largest one so far, so… but it'll be good interactions. I think there is a lot of variety of,
+
+232
+00:39:33.300 --> 00:39:39.910
+Faculty (Olympus): backgrounds you all have, and I'm sure we all will learn from each other. Conversations you're going to have.
+
+233
+00:39:40.020 --> 00:39:44.689
+Faculty (Olympus): Just, anybody wants to go? Lost? I mean,
+
+234
+00:39:45.200 --> 00:39:49.460
+Faculty (Olympus): You will have other opportunities, too, to introduce as we go along through the course.
+
+235
+00:39:49.820 --> 00:39:55.119
+Faculty (Olympus): Not just today, even following weeks as well, so please don't worry.
+
+236
+00:39:55.920 --> 00:40:00.449
+Faculty (Olympus): Okay, so let me start, and again, please,
+
+237
+00:40:00.580 --> 00:40:05.000
+Faculty (Olympus): If you want to say something, put it in the chat, too.
+
+238
+00:40:05.150 --> 00:40:17.749
+Faculty (Olympus): What I will do, actually, as we go through the content, I try to go through chat as much as possible, but sometimes, when I'm presenting, I tend to lose sight on the chat.
+
+239
+00:40:17.860 --> 00:40:26.289
+Faculty (Olympus): So raise your hand, you can ask questions. The best learning is going to happen through interaction. Just treat me as a facilitator, so…
+
+240
+00:40:26.610 --> 00:40:32.480
+Faculty (Olympus): Abel… Try my best to share contents, discuss contents,
+
+241
+00:40:33.030 --> 00:40:38.510
+Faculty (Olympus): But most of your learning will happen through these conversations, so if you have a question, please raise…
+
+242
+00:40:38.660 --> 00:40:41.379
+Faculty (Olympus): So that we all can hear that caution.
+
+243
+00:40:41.490 --> 00:40:49.439
+Faculty (Olympus): there's no right or wrong answer. So please, one thing I would say about this program, or any mentoring that I do.
+
+244
+00:40:50.050 --> 00:40:55.679
+Faculty (Olympus): Just don't feel shy, or afraid, or, like, what people are going to think about the question.
+
+245
+00:40:55.850 --> 00:40:58.930
+Faculty (Olympus): doesn't matter. We… I'm telling you one thing.
+
+246
+00:40:59.080 --> 00:41:05.779
+Faculty (Olympus): The best learning happens from… these is… unexpected questions.
+
+247
+00:41:06.360 --> 00:41:09.979
+Faculty (Olympus): And healthcare, as we know, it's a controversial area.
+
+248
+00:41:10.460 --> 00:41:21.569
+Faculty (Olympus): And more we talk, more we discuss, more innovations come out of that. I think that that'll be the intent. So please feel free to raise your questions, and we will…
+
+249
+00:41:22.130 --> 00:41:26.919
+Faculty (Olympus): try to address as we go along the presentation, so let me share my screen quickly now.
+
+250
+00:41:41.170 --> 00:41:50.869
+Faculty (Olympus): Okay, so this is… we went through the introduction, and today, what we're going to talk about is going to be focused more on a single case.
+
+251
+00:41:51.180 --> 00:41:58.690
+Faculty (Olympus): It'll be a case study around COVID-19. I think practically everybody was impacted by it, so…
+
+252
+00:41:59.560 --> 00:42:07.089
+Faculty (Olympus): Just a little bit about myself. Let me, quickly… I won't take a lot of time. I'm based out of Boston area.
+
+253
+00:42:07.420 --> 00:42:17.050
+Faculty (Olympus): I grew up in India, I graduated from, did my computer engineering from, Cyclerson College of Engineering Technology. I've been… I've been in U.S. since 98.
+
+254
+00:42:17.490 --> 00:42:19.029
+Faculty (Olympus): I call it home now.
+
+255
+00:42:19.190 --> 00:42:23.700
+Faculty (Olympus): I work for a company called Sanofi, based out of Boston.
+
+256
+00:42:23.930 --> 00:42:31.620
+Faculty (Olympus): And over 20 plus years in pharma, biotech, and healthcare. So, and I'm very much passionate. I hear a lot
+
+257
+00:42:31.780 --> 00:42:45.240
+Faculty (Olympus): from you about innovation. Like, a lot of you are very much interested in innovation. I'm passionate about innovation myself, and so I have a blog where I write. And from time to time, I will share some articles I've written on topics, so that
+
+258
+00:42:45.610 --> 00:42:49.250
+Faculty (Olympus): To bring some relevance to some of the topics that we will be covering.
+
+259
+00:42:49.640 --> 00:42:56.620
+Faculty (Olympus): And I will also make it a point, if there is a topic that we have never heard of, I will make sure
+
+260
+00:42:56.780 --> 00:43:02.009
+Faculty (Olympus): that I go back and try to find more information for all of you to share with you all.
+
+261
+00:43:02.570 --> 00:43:15.079
+Faculty (Olympus): So, I filed a few patents, I'm working on certain… I'm very… so we have a family of pet care, pet lovers, we love pets, so I've been working on certain… some, entrepreneurial…
+
+262
+00:43:15.410 --> 00:43:20.379
+Faculty (Olympus): endeavors around pet care. One of them, we recently filed a patent.
+
+263
+00:43:20.550 --> 00:43:34.109
+Faculty (Olympus): Hopefully I'll share more about that as we go along the program, because I do see there are a lot of innovations, cross-innovation can happen between pad care and healthcare, though people might say, why pad care and healthcare, unrelated, but there are a lot of ideas.
+
+264
+00:43:34.890 --> 00:43:45.919
+Faculty (Olympus): that can cross-pollinate. So we'll talk more and as much… so I will make it a point to share those ideas with all of you, just to spark some conversation, just to spark some ideas, and so…
+
+265
+00:43:45.980 --> 00:44:02.819
+Faculty (Olympus): just to spark some critical thinking that we may not have thought about. That'll be my goal. So I mentor and coach. I love mentoring. I come from the family of educators. My father was a professor and chairman at Aligham Muslim University.
+
+266
+00:44:03.010 --> 00:44:07.810
+Faculty (Olympus): That's where I grew up, did my enduring from there, and…
+
+267
+00:44:08.110 --> 00:44:17.390
+Faculty (Olympus): So besides, being, into pharma industry, I love teaching, and I do that on the weekends. So this is something I enjoy.
+
+268
+00:44:18.520 --> 00:44:35.149
+Faculty (Olympus): And so everybody in my family practically teaches. My older brother, he's a… he's a management faculty in finance, and my oldest brother retired, but he was a biology professor. So that's why I get my motivation, but my teaching will also
+
+269
+00:44:35.460 --> 00:44:37.060
+Faculty (Olympus): Food, as we go along.
+
+270
+00:44:37.310 --> 00:44:42.750
+Faculty (Olympus): some real-life examples, some real work that is happening, because I'm a product manager by design.
+
+271
+00:44:42.990 --> 00:44:48.240
+Faculty (Olympus): that's where… that's where I get a lot of my motivation. So I build products.
+
+272
+00:44:48.420 --> 00:44:59.649
+Faculty (Olympus): And then being a technical engineer, so I understand a little bit about AI also, so I try to bring all of that together to create products. So, that'll be my…
+
+273
+00:44:59.780 --> 00:45:07.319
+Faculty (Olympus): approach. I will… Try to bring as many ideas as possible, besides content that we'll be sharing.
+
+274
+00:45:07.590 --> 00:45:13.050
+Faculty (Olympus): And to ensure that That you have… The best learning possible.
+
+275
+00:45:13.300 --> 00:45:21.120
+Faculty (Olympus): Though this program probably won't cover everything that you are expecting, because everybody has different requirements.
+
+276
+00:45:21.350 --> 00:45:26.920
+Faculty (Olympus): The program was created considering A lot of things that you have in mind.
+
+277
+00:45:27.410 --> 00:45:29.740
+Faculty (Olympus): So, it'll give you the foundation.
+
+278
+00:45:30.150 --> 00:45:33.230
+Faculty (Olympus): And… and then you can just build on that foundation.
+
+279
+00:45:33.760 --> 00:45:38.010
+Faculty (Olympus): You can… I'm sure you will find
+
+280
+00:45:38.360 --> 00:45:42.220
+Faculty (Olympus): Specific areas that will stick with you.
+
+281
+00:45:42.340 --> 00:45:44.260
+Faculty (Olympus): And you can build on it.
+
+282
+00:45:44.720 --> 00:45:51.010
+Faculty (Olympus): So for anybody who's interested in technical stuff, I want to throw this out too, because,
+
+283
+00:45:51.240 --> 00:46:02.480
+Faculty (Olympus): The program won't talk very much about technical details, so if you are somebody who wants to unpeel the layer, like, what goes behind the scene.
+
+284
+00:46:02.620 --> 00:46:10.580
+Faculty (Olympus): And I have another cohort, so a cohort of doctors and CEOs who run hospitals in Boston area.
+
+285
+00:46:10.720 --> 00:46:14.210
+Faculty (Olympus): And… and they wanted to see some technical stuff.
+
+286
+00:46:14.370 --> 00:46:15.480
+Faculty (Olympus): So…
+
+287
+00:46:15.730 --> 00:46:26.180
+Faculty (Olympus): I'm sharing with them some real products as we go along, just to show them, like, how it all works out, because when you start to see it in action, it starts to sink in a little bit better.
+
+288
+00:46:26.600 --> 00:46:27.960
+Faculty (Olympus): beyond theory.
+
+289
+00:46:28.110 --> 00:46:30.040
+Faculty (Olympus): So, if any one of you
+
+290
+00:46:30.480 --> 00:46:38.779
+Faculty (Olympus): is interested in that, raise your hand and let me know so that, I can bring those working solutions
+
+291
+00:46:39.270 --> 00:46:46.259
+Faculty (Olympus): And show you some code, working code, too, behind the scene. Not required, but if you have that interest.
+
+292
+00:46:46.950 --> 00:47:06.580
+Faculty (Olympus): No problem. We won't spend a lot of time, but I will try to make sure that at least you get behind the scenes how it all plays out, not just surface. Obviously, for the most part, we'll be the consumers of AI solutions, or we will have teams that will be building these AI solutions for us, but it's always good to know.
+
+293
+00:47:06.750 --> 00:47:09.869
+Faculty (Olympus): Good to know, like, how this all plays out end-to-end.
+
+294
+00:47:10.240 --> 00:47:14.409
+Faculty (Olympus): Right? So that'll be my goal, to give you the foundation
+
+295
+00:47:15.380 --> 00:47:18.709
+Faculty (Olympus): Of everything that might be of interest to you.
+
+296
+00:47:19.180 --> 00:47:21.940
+Faculty (Olympus): And… and hopefully that'll spark something.
+
+297
+00:47:22.130 --> 00:47:30.339
+Faculty (Olympus): your new learning, and that'll give you the foundation to get you started. So today's case is going to be focused on COVID-19.
+
+298
+00:47:31.090 --> 00:47:34.970
+Faculty (Olympus): It's a very foundational start that we're going to discuss today.
+
+299
+00:47:35.100 --> 00:47:46.770
+Faculty (Olympus): Because the reason we… talk about COVID-19, because everybody Was impacted by it.
+
+300
+00:47:46.960 --> 00:47:53.970
+Faculty (Olympus): Not just the patients, it's the entire ecosystem of healthcare across the world.
+
+301
+00:47:54.350 --> 00:47:58.630
+Faculty (Olympus): And all the actors, like doctors, physicians, clinicians,
+
+302
+00:47:59.290 --> 00:48:08.430
+Faculty (Olympus): insurance providers, nurses, everybody was impacted by it in a certain way, whether you were the provider of…
+
+303
+00:48:09.020 --> 00:48:13.440
+Faculty (Olympus): For care, or where… whether you were consuming that care.
+
+304
+00:48:13.840 --> 00:48:16.779
+Faculty (Olympus): Everybody was impacted equally by it.
+
+305
+00:48:17.010 --> 00:48:25.610
+Faculty (Olympus): So what are you going to talk today? We will present this case, we will talk about, the challenges with COVID-19.
+
+306
+00:48:26.380 --> 00:48:34.949
+Faculty (Olympus): in detection of COVID-19, some of the tests which were there, and what was the problem there. How…
+
+307
+00:48:35.330 --> 00:48:38.670
+Faculty (Olympus): The entire healthcare system was overwhelmed.
+
+308
+00:48:39.300 --> 00:48:46.429
+Faculty (Olympus): By the amount, the volume, of information and patients, they were there all around the world.
+
+309
+00:48:46.850 --> 00:48:50.710
+Faculty (Olympus): Hospitals were overwhelmed. Clinics were overwhelmed.
+
+310
+00:48:51.310 --> 00:48:53.780
+Faculty (Olympus): And it impacted everyone.
+
+311
+00:48:54.750 --> 00:48:58.709
+Faculty (Olympus): So the question becomes, Can we use AI?
+
+312
+00:48:59.010 --> 00:49:14.379
+Faculty (Olympus): could we have used AI to do some of the work? Like, automation. So when we talk AI, or… so, one thing I want to mention to all of you, AI is another form of automation, so treat AI as automation.
+
+313
+00:49:15.430 --> 00:49:18.999
+Faculty (Olympus): Right? So we are bringing AI just to automate certain things.
+
+314
+00:49:19.830 --> 00:49:32.339
+Faculty (Olympus): That's the gist of it. So we'll talk about that. So, just going through some timelines, I mean, this is what we know. December 2019, first case in Wuhan.
+
+315
+00:49:32.440 --> 00:49:50.700
+Faculty (Olympus): that what we know, or what we understood. And March 2020, WHO declares COVID-19 a pandemic. April, May 2020, hospitals overwhelmed globally. And then by April, May 2020, urgent need for scalable diagnostic emerges.
+
+316
+00:49:51.060 --> 00:49:56.509
+Faculty (Olympus): Right? So, my… I'm sure all of you had some experience with COVID,
+
+317
+00:49:56.670 --> 00:50:11.579
+Faculty (Olympus): at that time, especially people who were at the hospital, at the receiving end, you were seeing a lot. I was in India, actually, in January 2020. I was in Mumbai, so we had a workshop I was conducting.
+
+318
+00:50:11.750 --> 00:50:21.500
+Faculty (Olympus): And my first experience with COVID was in January 2020. As I landed at the airport in Mumbai, there were
+
+319
+00:50:21.880 --> 00:50:25.509
+Faculty (Olympus): Bunch of people who were coming with their masks on, and…
+
+320
+00:50:25.660 --> 00:50:41.740
+Faculty (Olympus): And there was some buzz started to happen, that something is going on. There is some disease that is spreading. I didn't hear till then that some COVID was happening, but slowly, obviously, it built up. Slowly, we knew that what was going on.
+
+321
+00:50:42.170 --> 00:50:49.150
+Faculty (Olympus): So, that was my expo… exposure at that point. So, just to give you the background, like, how…
+
+322
+00:50:49.510 --> 00:50:52.240
+Faculty (Olympus): This disease progressed.
+
+323
+00:50:52.720 --> 00:51:00.740
+Faculty (Olympus): So we're in crisis, the COVID-19 pandemic, spread pretty fast.
+
+324
+00:51:03.090 --> 00:51:06.120
+Faculty (Olympus): And the testing, though they were there.
+
+325
+00:51:06.260 --> 00:51:12.220
+Faculty (Olympus): RT-PCR tests, which were available, they were a little slower, and
+
+326
+00:51:12.450 --> 00:51:18.489
+Faculty (Olympus): And on top of that, there was a point, if you guys remember, I know in U.S. for sure.
+
+327
+00:51:19.250 --> 00:51:21.589
+Faculty (Olympus): These kits were not available.
+
+328
+00:51:21.950 --> 00:51:24.480
+Faculty (Olympus): In… in retail stores.
+
+329
+00:51:24.720 --> 00:51:29.399
+Faculty (Olympus): Like, pharmacy stores, they were gone. And even if they were available.
+
+330
+00:51:29.530 --> 00:51:35.359
+Faculty (Olympus): There was a backlog. You could order, and you will get them after, like, a week or so, at one point.
+
+331
+00:51:35.470 --> 00:51:47.200
+Faculty (Olympus): I remember buying, so we were a family of four, and I remember buying, this testing kit for almost $400, $100 per person at one point.
+
+332
+00:51:47.730 --> 00:51:52.009
+Faculty (Olympus): And do… They… they were selling for hardly $5.
+
+333
+00:51:52.520 --> 00:51:55.520
+Faculty (Olympus): A piece, in a normal situation.
+
+334
+00:51:55.690 --> 00:52:12.779
+Faculty (Olympus): So there were a lot of factors. There were supply chain issues going on, and there were, like, hospitals overwhelmed, and there were a lot of things that was going on. And this is no different. If you think of… well, obviously, it was different because it was a global pandemic, people were impacted by it, but if you think of it this way.
+
+335
+00:52:12.810 --> 00:52:18.750
+Faculty (Olympus): As doctors, as physicians, as clinicians, I think you deal with these situations days in, days out.
+
+336
+00:52:19.020 --> 00:52:22.269
+Faculty (Olympus): Those are the problems you're facing, days in, days out.
+
+337
+00:52:23.400 --> 00:52:32.239
+Faculty (Olympus): And a lot of time, these kind of situations, and Dr. Rupesh, actually, I'm kind of picking on what you mentioned.
+
+338
+00:52:32.380 --> 00:52:35.450
+Faculty (Olympus): It takes, if away your attention
+
+339
+00:52:35.700 --> 00:52:45.489
+Faculty (Olympus): from your… the real stuff you know. You are trained physicians, you are trained doctors, you are trained surgeons, you are trained insurance experts.
+
+340
+00:52:45.680 --> 00:53:00.340
+Faculty (Olympus): But, you might end up spending more time on the administrative part of it, because of the situation, the problem around you. So, when we talk AI in healthcare, there's one thing that you will hear a lot.
+
+341
+00:53:00.970 --> 00:53:02.860
+Faculty (Olympus): How to give time back.
+
+342
+00:53:03.110 --> 00:53:04.859
+Faculty (Olympus): To what you do the best.
+
+343
+00:53:05.160 --> 00:53:17.580
+Faculty (Olympus): how to give you that time back to the network, the clinicians, all the actors, so they can focus more on what they do the best. So that's the theme.
+
+344
+00:53:17.690 --> 00:53:19.980
+Faculty (Olympus): Where you add more value.
+
+345
+00:53:20.380 --> 00:53:25.350
+Faculty (Olympus): I hear the same theme even in US, so I have a few doctor friends.
+
+346
+00:53:25.550 --> 00:53:29.130
+Faculty (Olympus): Out of New Jersey, and one of…
+
+347
+00:53:30.160 --> 00:53:43.289
+Faculty (Olympus): excellent, he's a pain management doctor, and he always says that I'm… almost… I'm… 60-70% of my time goes in taking care of the paperwork, like, administrative work.
+
+348
+00:53:43.720 --> 00:53:56.179
+Faculty (Olympus): So he's filling out whatever insurance claims and whatever. Obviously, they are… stop helping him, but there are a lot of things that comes to him, too. Like, at the end of the day, he has to write notes about his patients.
+
+349
+00:53:56.920 --> 00:54:16.180
+Faculty (Olympus): which he could not do, because as he's going through the motion, he's treating patients for pain, he doesn't have time to sit down and take notes and all that, and write those things down. So these are very subtle, small, small areas where AI can very well be interjected.
+
+350
+00:54:16.780 --> 00:54:18.009
+Faculty (Olympus): With a caveat.
+
+351
+00:54:18.210 --> 00:54:22.839
+Faculty (Olympus): As you all know, healthcare is highly regulated.
+
+352
+00:54:23.130 --> 00:54:37.720
+Faculty (Olympus): especially in U.S, you know, it's… and I'm sure it's other countries too, is very highly regulated, and when we try to introduce something new in the workflow, the clinical process, it's not that easy.
+
+353
+00:54:37.830 --> 00:54:38.919
+Faculty (Olympus): It takes time.
+
+354
+00:54:39.580 --> 00:54:51.329
+Faculty (Olympus): Because it has to go through approvals, it has to go through proper testing, it has… sometimes it may have to go through clinical trial, just to ensure it's fitting well and producing the results expected.
+
+355
+00:54:51.440 --> 00:54:55.869
+Faculty (Olympus): So… so those are some of the challenges, and COVID-19 was no different, but…
+
+356
+00:54:56.380 --> 00:55:09.460
+Faculty (Olympus): the problem just scaled. It became a global problem, very visible problem, everybody knew, everybody was struggling, people were dying, people were getting, COVID-19,
+
+357
+00:55:09.910 --> 00:55:10.620
+Faculty (Olympus): But…
+
+358
+00:55:11.450 --> 00:55:20.789
+Faculty (Olympus): nobody knew that they have COVID-19, and they were spreading without anybody knowing, because the testing was either slower or not available.
+
+359
+00:55:21.350 --> 00:55:25.710
+Faculty (Olympus): At the speed, and at the volume that was needed.
+
+360
+00:55:26.160 --> 00:55:28.800
+Faculty (Olympus): So…
+
+361
+00:55:28.990 --> 00:55:41.079
+Faculty (Olympus): we talked about that, the critical shortage of RT-PCR kits, gold standard for testing at the time, which was used.
+
+362
+00:55:41.600 --> 00:55:50.470
+Faculty (Olympus): And that, obviously, I mean, hospitals were not ready, they didn't have the capacity to deal with this volume of patients.
+
+363
+00:55:51.190 --> 00:55:57.450
+Faculty (Olympus): I know quite a few of my relatives in India, means some of them passed away.
+
+364
+00:55:58.700 --> 00:56:01.279
+Faculty (Olympus): Just because, treatment…
+
+365
+00:56:01.400 --> 00:56:08.249
+Faculty (Olympus): Was not available on time, or the lack of oxygen cylinders, or intervention was not possible.
+
+366
+00:56:08.480 --> 00:56:17.760
+Faculty (Olympus): And actually, at one point, people were not even willing to take these patients to the hospitals because they were afraid they might get it. They might get COVID.
+
+367
+00:56:17.970 --> 00:56:20.029
+Faculty (Olympus): So, it was a very dire situation.
+
+368
+00:56:20.250 --> 00:56:24.209
+Faculty (Olympus): We all know, I think you… it was a pretty known situation.
+
+369
+00:56:24.420 --> 00:56:30.120
+Faculty (Olympus): And at the core of it, one problem became very evident, very clear.
+
+370
+00:56:30.310 --> 00:56:34.800
+Faculty (Olympus): Like, how can we, speed up testing?
+
+371
+00:56:35.220 --> 00:56:37.540
+Faculty (Olympus): How can we speed up detection?
+
+372
+00:56:38.060 --> 00:56:39.619
+Faculty (Olympus): That was the idea.
+
+373
+00:56:40.240 --> 00:56:45.020
+Faculty (Olympus): And when we say speeding things up, automation.
+
+374
+00:56:45.150 --> 00:56:46.279
+Faculty (Olympus): is the key.
+
+375
+00:56:46.470 --> 00:56:56.900
+Faculty (Olympus): keys… For the most part, In, in, in any, in any process, where…
+
+376
+00:56:57.110 --> 00:57:03.830
+Faculty (Olympus): Manual intervention is needed, and we are kind of… bottlenecked.
+
+377
+00:57:04.060 --> 00:57:12.420
+Faculty (Olympus): By the number of… Individuals, whenever teams, people available to work on the process.
+
+378
+00:57:13.980 --> 00:57:21.740
+Faculty (Olympus): If we don't have enough people, enough manpower, obviously that becomes a bottleneck. And that's when we sort of think about automation.
+
+379
+00:57:22.690 --> 00:57:30.769
+Faculty (Olympus): So… So the question became, can we somehow speed up RT-PCR, sorry, this COVID detection test?
+
+380
+00:57:30.950 --> 00:57:36.529
+Faculty (Olympus): Using some other technology, some other way to do it.
+
+381
+00:57:37.890 --> 00:57:40.670
+Faculty (Olympus): So…
+
+382
+00:57:41.370 --> 00:57:47.620
+Faculty (Olympus): So, as we know, and you guys probably, being in this field, it was gold standard at this point.
+
+383
+00:57:48.120 --> 00:57:55.320
+Faculty (Olympus): it almost took… I remember in U.S, it took… used to take almost 24 to 48 hours.
+
+384
+00:57:55.560 --> 00:57:57.109
+Faculty (Olympus): To get the results back.
+
+385
+00:57:58.810 --> 00:58:05.250
+Faculty (Olympus): And with the amount of people who are getting tested,
+
+386
+00:58:05.480 --> 00:58:11.320
+Faculty (Olympus): Kits for availability of kits… kits for… testing kits was another problem.
+
+387
+00:58:11.490 --> 00:58:13.250
+Faculty (Olympus): So…
+
+388
+00:58:13.590 --> 00:58:20.530
+Faculty (Olympus): So, critical hours lost, obviously. I think in healthcare, we all know, every minute, every hour is critical.
+
+389
+00:58:20.630 --> 00:58:34.579
+Faculty (Olympus): So, if intervention can happen in time, like, as soon as somebody's detected with COVID, intervention can happen. Not only intervention, I think they can be quarantined, it means you can restrict
+
+390
+00:58:34.750 --> 00:58:38.520
+Faculty (Olympus): Somehow, so that they are not… they don't become…
+
+391
+00:58:39.070 --> 00:58:44.190
+Faculty (Olympus): The carrier, and they start to spread this virus to other folks.
+
+392
+00:58:44.420 --> 00:58:46.580
+Faculty (Olympus): So that was our idea.
+
+393
+00:58:46.990 --> 00:58:49.980
+Faculty (Olympus): So, in summary, long story short.
+
+394
+00:58:50.820 --> 00:58:55.740
+Faculty (Olympus): The focus was, can we speed up detection.
+
+395
+00:58:56.670 --> 00:59:02.049
+Faculty (Olympus): I mean, can we speed up and identify individuals who have COVID?
+
+396
+00:59:02.650 --> 00:59:10.140
+Faculty (Olympus): So that appropriate intervention and appropriate controls can be put in place so that they don't spread it further.
+
+397
+00:59:10.470 --> 00:59:11.699
+Faculty (Olympus): That was the idea.
+
+398
+00:59:12.120 --> 00:59:19.820
+Faculty (Olympus): so, these were some of the limitations we discussed, 24 to 72 hours.
+
+399
+00:59:20.180 --> 00:59:25.979
+Faculty (Olympus): false negative due to sample collection error. If you remember,
+
+400
+00:59:26.020 --> 00:59:40.890
+Faculty (Olympus): at least I can tell you from my perspective, when we got this kit, there were clear instructions, like, don't touch the sample, don't touch certain part, and as physicians and doctors, you probably all know, I think the contamination can be a big factor, right?
+
+401
+00:59:40.970 --> 00:59:49.350
+Faculty (Olympus): But that was happening, because people are not good at taking tests themselves, so there was some contamination happening, so there were results for… there were a lot of false positives.
+
+402
+00:59:49.460 --> 00:59:52.299
+Faculty (Olympus): or false negatives like that, right? So…
+
+403
+00:59:52.930 --> 01:00:08.309
+Faculty (Olympus): So there were a lot of different factors that were going around, and you will hear this a lot also within the context of AI, something like, call it, false negative, false positive, because AI produces some outputs. These machine learning models, they produce some outputs.
+
+404
+01:00:08.490 --> 01:00:13.239
+Faculty (Olympus): And… and we call them as false positive, means if…
+
+405
+01:00:13.680 --> 01:00:20.710
+Faculty (Olympus): Your model is predicting something which is… Not true, and… It's predicting that, right?
+
+406
+01:00:21.240 --> 01:00:24.969
+Faculty (Olympus): And then false negative, same way, right?
+
+407
+01:00:25.220 --> 01:00:39.140
+Faculty (Olympus): And everything has different repercussions along the line, right? It's false positive or false negative. We'll talk more on that, so please don't worry about that. There are some performance metrics we discussed, so we'll discuss those in the context of
+
+408
+01:00:39.280 --> 01:00:46.030
+Faculty (Olympus): measuring performances of these AI models later. So just… just right now, we just talk about this testing kit, and
+
+409
+01:00:46.140 --> 01:00:50.660
+Faculty (Olympus): the case, like, how AI came to solve this problem, to some extent.
+
+410
+01:00:51.560 --> 01:00:58.290
+Faculty (Olympus): So, one of the challenges, obviously, was, it means,
+
+411
+01:00:58.890 --> 01:01:11.370
+Faculty (Olympus): I mean, especially in rural areas, there's a big deal, too. I mean, kits were not available in the key cities. Think about rural areas, it was even worse.
+
+412
+01:01:12.890 --> 01:01:18.430
+Faculty (Olympus): And so there was… it's basically… think of it this way, it… shook.
+
+413
+01:01:19.310 --> 01:01:23.930
+Faculty (Olympus): the entire healthcare system. It was actually a real test.
+
+414
+01:01:24.760 --> 01:01:29.790
+Faculty (Olympus): Off our entire… Healthcare ecosystem.
+
+415
+01:01:30.720 --> 01:01:36.270
+Faculty (Olympus): Not just from the care perspective, it's also from everything that supports it.
+
+416
+01:01:36.440 --> 01:01:42.079
+Faculty (Olympus): Everything that kind of linked… To… to healthcare was…
+
+417
+01:01:43.730 --> 01:01:46.799
+Faculty (Olympus): was taken aback by it. There was a lot of,
+
+418
+01:01:47.220 --> 01:01:54.479
+Faculty (Olympus): And I think it was a real awakening, too. It was a real awakening for the entire healthcare system, that something…
+
+419
+01:01:55.120 --> 01:01:57.330
+Faculty (Olympus): It needs to be done differently.
+
+420
+01:01:57.440 --> 01:02:03.219
+Faculty (Olympus): And once in a while, I think, obviously, COVID-19 was not a good example. Once in a while, we do need that kind of
+
+421
+01:02:03.720 --> 01:02:04.790
+Faculty (Olympus): test.
+
+422
+01:02:05.170 --> 01:02:11.130
+Faculty (Olympus): Which kind of lets us focus on the real problem that might be coming, so…
+
+423
+01:02:11.630 --> 01:02:20.550
+Faculty (Olympus): So let's move on, and again, going a little bit deeper into the challenge, means people were spreading disease without knowing.
+
+424
+01:02:21.430 --> 01:02:33.779
+Faculty (Olympus): and they were silent spreaders. And interestingly, as you guys work in hospitals, you probably know better than anybody else.
+
+425
+01:02:35.770 --> 01:02:39.549
+Faculty (Olympus): individuals had COVID, and they had different symptoms.
+
+426
+01:02:40.090 --> 01:02:47.119
+Faculty (Olympus): Some didn't show anything. I mean, they were healthy, and they were just walking around, and they had COVID, but they were…
+
+427
+01:02:47.320 --> 01:02:49.300
+Faculty (Olympus): Spreading it without knowing it.
+
+428
+01:02:49.520 --> 01:02:53.540
+Faculty (Olympus): But then there were… there are people which… where it was very obvious.
+
+429
+01:02:53.730 --> 01:03:01.170
+Faculty (Olympus): I mean, they had lung infection, I mean, congestion, I mean, they were very obvious, right?
+
+430
+01:03:01.310 --> 01:03:07.429
+Faculty (Olympus): So, there is a variety of… patients… All over the world.
+
+431
+01:03:08.710 --> 01:03:15.530
+Faculty (Olympus): So there was… this was the situation. I think that's a very diff… tough situation, especially when something is very new, not known.
+
+432
+01:03:15.980 --> 01:03:20.720
+Faculty (Olympus): I think it's very difficult to come up with a solution. So.
+
+433
+01:03:21.180 --> 01:03:23.880
+Faculty (Olympus): So this is all what was happening, right?
+
+434
+01:03:24.420 --> 01:03:30.219
+Faculty (Olympus): Now, I'll take a pause here, and just take some… your perspective.
+
+435
+01:03:31.430 --> 01:03:39.659
+Faculty (Olympus): you… we all dealt with it in different ways, different forms and shapes. We dealt with it for ourselves.
+
+436
+01:03:40.270 --> 01:03:44.899
+Faculty (Olympus): Either as a care provider, or taking care of somebody at home.
+
+437
+01:03:47.800 --> 01:03:55.370
+Faculty (Olympus): Just in few words, actually, share your thoughts, like, how you… Faced this situation.
+
+438
+01:03:55.930 --> 01:03:57.549
+Faculty (Olympus): And how you dealt with it?
+
+439
+01:03:59.960 --> 01:04:09.739
+Faculty (Olympus): And so I think… so we do this just to… just to learn from all of your perspective, because, you know, we were doing something. We were doing something to deal with it, right?
+
+440
+01:04:11.170 --> 01:04:15.439
+Faculty (Olympus): Anybody wants to say something, like, what… how did you guys deal with it, and…
+
+441
+01:04:15.690 --> 01:04:23.879
+Faculty (Olympus): You came up with some innovative ideas in your setups to maybe streamline the patient volume, and maybe
+
+442
+01:04:24.730 --> 01:04:26.629
+Faculty (Olympus): Do something differently.
+
+443
+01:04:28.680 --> 01:04:31.040
+Faculty (Olympus): So, share, if you have some ideas, please.
+
+444
+01:04:40.140 --> 01:04:45.119
+Faculty (Olympus): Any thoughts? Any thoughts? You can put it in chat, too, if you don't want to say something. It means I think.
+
+445
+01:04:53.240 --> 01:05:02.760
+Robert Latto .: Hi, I'll… I'll come in if you want, if you just want a perspective and encourage people to speak up. So, in terms of the UAE perspective,
+
+446
+01:05:03.140 --> 01:05:09.680
+Robert Latto .: I think we were very… Well ordered in our response, although everybody had a reactive response to it.
+
+447
+01:05:10.430 --> 01:05:22.319
+Robert Latto .: the UAE sort of, I think, led the field in managing the pandemic. In terms of operationally for the hospital, it was quite easy decisions you make, based on capacity.
+
+448
+01:05:22.380 --> 01:05:36.530
+Robert Latto .: You stop your outpatient clinics, people stayed at home, and I think it's still the fallout from that in terms of late diagnosis for cancers is probably still being felt. But yeah, so…
+
+449
+01:05:36.710 --> 01:05:45.960
+Robert Latto .: In terms of the pandemic and our… well, my perspective of it, paediatrics was sort of largely in touch, thankfully.
+
+450
+01:05:47.240 --> 01:06:00.400
+Robert Latto .: But yeah, we had to obviously send staff to other areas, which were in high demand, which stretched service provision across the field, but predominantly, it was simple measures,
+
+451
+01:06:00.920 --> 01:06:12.069
+Robert Latto .: keep people at home. Physicians, some stayed at home, nurses were on the front line, in certain areas, some weren't, and those that weren't were redeployed to where they were needed.
+
+452
+01:06:13.850 --> 01:06:14.899
+Faculty (Olympus): Thank you, Robert.
+
+453
+01:06:15.410 --> 01:06:17.719
+Faculty (Olympus): Excellent perspective, and
+
+454
+01:06:20.830 --> 01:06:23.260
+Faculty (Olympus): Anybody else wants to go, please?
+
+455
+01:06:23.260 --> 01:06:24.040
+Mohamed Ebraheem Elmesserey .: Yep.
+
+456
+01:06:24.190 --> 01:06:29.960
+Mohamed Ebraheem Elmesserey .: I just want to say that, like Robert has mentioned, NEOE, it was quite organized.
+
+457
+01:06:30.440 --> 01:06:34.910
+Mohamed Ebraheem Elmesserey .: But from a medical point of view, I will just give some…
+
+458
+01:06:35.450 --> 01:06:46.280
+Mohamed Ebraheem Elmesserey .: what happened to us. Initially, when we had the… at the first few weeks of the COVID, it was quite difficult, because nobody knows what's going on from the…
+
+459
+01:06:46.410 --> 01:06:58.160
+Mohamed Ebraheem Elmesserey .: medical point of view. Usually, during wintertime, in pediatrics, we are receiving a lot of sick patients, patients coming with some viral infection. The… we have to put them sometimes a little bit later.
+
+460
+01:06:58.230 --> 01:07:06.959
+Mohamed Ebraheem Elmesserey .: And they had these bad lungs. Actually, in COVID, we didn't face that much of a problem, but what I can say is…
+
+461
+01:07:07.480 --> 01:07:14.670
+Mohamed Ebraheem Elmesserey .: In adults, what I hear from my colleagues who are working in the adult ICU, because all of us even give some help for that.
+
+462
+01:07:15.260 --> 01:07:20.180
+Mohamed Ebraheem Elmesserey .: What we call a medicine, the pathophysiology of this was not clear initially.
+
+463
+01:07:20.460 --> 01:07:36.779
+Mohamed Ebraheem Elmesserey .: And the testing was not available. Like you mentioned, even the PCR results, it was all over Dubai, it was lacking. And the hospital had been struggling to get the results of this one. So, we started initially to manage those patients in a traditional way.
+
+464
+01:07:36.850 --> 01:07:44.379
+Mohamed Ebraheem Elmesserey .: Then, after a few weeks, we start to have some research here and there telling us about there is some blood clots in the lungs.
+
+465
+01:07:44.440 --> 01:07:57.560
+Mohamed Ebraheem Elmesserey .: you have to give some medicine to lysis the blood. So, by time, it started to improve slowly. But initially, because it was something new for all of us, it was, I can say.
+
+466
+01:07:57.630 --> 01:08:11.440
+Mohamed Ebraheem Elmesserey .: In management, there's no guideline. It was personal experience only from each single hospital. Everybody has his own, vision to manage this kind of patient. But later on, when we have established guidelines, start to improve.
+
+467
+01:08:11.940 --> 01:08:14.490
+Mohamed Ebraheem Elmesserey .: That was the situation in, NUA.
+
+468
+01:08:15.650 --> 01:08:16.990
+Faculty (Olympus): Thank you, Melvin.
+
+469
+01:08:16.990 --> 01:08:17.910
+Mohamed Ebraheem Elmesserey .: Excellent, then.
+
+470
+01:08:19.040 --> 01:08:21.950
+Dr Anand Deshpande .: Yeah, excellent. If I can come over…
+
+471
+01:08:22.279 --> 01:08:23.609
+Faculty (Olympus): Yes, please. Yes, please.
+
+472
+01:08:23.609 --> 01:08:34.239
+Dr Anand Deshpande .: Yeah, basically, at the time of COVID, I must say, our hospital at Hinduja, Mumbai, we were very efficient in diagnosing.
+
+473
+01:08:34.239 --> 01:08:46.009
+Dr Anand Deshpande .: with automation in RT-PCRs. So, results were out very fast, and we could help a lot of people, a lot of patients in Mumbai. As you rightly said, problem was not…
+
+474
+01:08:46.079 --> 01:08:57.889
+Dr Anand Deshpande .: With the symptomatic patient, problem was the asymptomatic ones who were walking in. And one of the biggest scenarios I faced was in our transfusion medicine, where people come for blood donation.
+
+475
+01:08:58.169 --> 01:09:15.569
+Dr Anand Deshpande .: And they donate blood, they go away, they used to call after 3 days, oh, sir, I developed COVID. And that was the… quite a problematic situation, what to do, because we used to come in contact with them regularly, there was no… no way we could avoid. And we didn't know what to do with the blood, which was…
+
+476
+01:09:15.669 --> 01:09:23.849
+Dr Anand Deshpande .: collected also. So there were a lot of, those sort of, I will say, ethical problems, in dealing with this sort of situation.
+
+477
+01:09:24.099 --> 01:09:26.259
+Faculty (Olympus): But, at that time.
+
+478
+01:09:26.259 --> 01:09:34.199
+Dr Anand Deshpande .: with the… vaccine availability, it was a great thing which I've done in India, I must say.
+
+479
+01:09:34.649 --> 01:09:37.299
+Faculty (Olympus): So, people are vaccinated very fast.
+
+480
+01:09:37.299 --> 01:09:41.479
+Dr Anand Deshpande .: First dose, second dose, maybe whatever the protocol people are using at that time.
+
+481
+01:09:41.689 --> 01:09:42.699
+Dr Anand Deshpande .: Thank you.
+
+482
+01:09:43.189 --> 01:09:44.419
+Faculty (Olympus): Thank you, Dr. Allen.
+
+483
+01:09:45.249 --> 01:09:48.939
+Faculty (Olympus): These are all excellent perspectives. Sorry, yes, please, please, go ahead.
+
+484
+01:09:48.939 --> 01:10:07.059
+Abdul Aneez .: Oh, yeah. Well, to add to my fellow colleagues, in fact, COVID gave us a lot of problems, innumerable problems. But talk about, delay-wise, being in Dubai, it comes from different stage to stage-wise. In the initial days, when the cases weren't much.
+
+485
+01:10:07.359 --> 01:10:12.899
+Abdul Aneez .: We ask patients, the moment you're diagnosed, probably you get a positive result, come get admitted in the hospital.
+
+486
+01:10:13.129 --> 01:10:19.389
+Abdul Aneez .: either symptomatic or asymptomatic. So, in those days, when we didn't have much cases, results did come quick.
+
+487
+01:10:19.599 --> 01:10:26.639
+Abdul Aneez .: But then subsequently, what happened was when the cases became more and more, and hospitals were overwhelmed, then you started categorizing in terms of
+
+488
+01:10:26.639 --> 01:10:40.129
+Abdul Aneez .: Symptoms. If you're not symptomatic, don't come in. Even if you're COVID-positive, you may or may not test, but then you may be… let's assume the whole public is positive. So, we start admitting them based on the symptoms.
+
+489
+01:10:40.129 --> 01:10:50.029
+Abdul Aneez .: And, so even if they come into hospital, if they're symptomatic, where the COVID test came even as negative, could be a false negative, but then we took them as…
+
+490
+01:10:50.139 --> 01:11:00.919
+Abdul Aneez .: As positives and manage them. So, talking about delays, yes, delays, initial days, we worried, but then we started overwhelming the hospitals. We didn't really go by the test.
+
+491
+01:11:00.919 --> 01:11:14.309
+Abdul Aneez .: If they're symptomatic and they're worsening, we took them as positives. And we repeated the test again and again and again. So, probably, you know, the first tests, even if it delays, didn't really matter, because if the patient was bad, we took them as positives.
+
+492
+01:11:16.539 --> 01:11:21.769
+Abdul Aneez .: And that's how we managed those, when it became at the peak of its, yeah.
+
+493
+01:11:22.449 --> 01:11:23.219
+Abdul Aneez .: Dang.
+
+494
+01:11:23.220 --> 01:11:26.080
+Faculty (Olympus): Thank you, thank you, and I think this is,
+
+495
+01:11:26.330 --> 01:11:37.190
+Faculty (Olympus): I think one thing we're probably all getting out of this conversation, we managed it differently, right? We all were obviously focused on
+
+496
+01:11:37.950 --> 01:11:40.790
+Faculty (Olympus): Understanding it first, and coming up with a solution.
+
+497
+01:11:41.010 --> 01:11:52.570
+Faculty (Olympus): We all did our best, right, there. And these are excellent perspectives, and I think as we go through the program, keep these thoughts in mind, you know, because…
+
+498
+01:11:53.090 --> 01:11:56.469
+Faculty (Olympus): When we… when we talk about AI solutions.
+
+499
+01:11:56.680 --> 01:12:03.919
+Faculty (Olympus): when we talk about, machine learning, or, like, any, any solution, right? Yes, please, Amalik, yeah.
+
+500
+01:12:05.650 --> 01:12:06.780
+Faculty (Olympus): Go ahead, please.
+
+501
+01:12:07.950 --> 01:12:10.729
+Dr Maulik Patel .: Hi, we had a very different scenario here.
+
+502
+01:12:10.910 --> 01:12:14.350
+Dr Maulik Patel .: So, we are based in one of the big ports in India.
+
+503
+01:12:14.790 --> 01:12:23.100
+Dr Maulik Patel .: So, we are providing healthcare services to biggest port. So they didn't want to close the port. So, sort of laborers are coming inside.
+
+504
+01:12:23.300 --> 01:12:25.750
+Faculty (Olympus): So, we had created a three-level system.
+
+505
+01:12:26.030 --> 01:12:30.229
+Dr Maulik Patel .: First level, we are screening everybody who's entering the premises.
+
+506
+01:12:30.360 --> 01:12:36.540
+Dr Maulik Patel .: with the sport test, COVID sport test, anybody who is found positive will go to level 2.
+
+507
+01:12:36.850 --> 01:12:41.999
+Dr Maulik Patel .: Where they will be categorized at mild, moderate, somebody who is very sick will go to the hospital.
+
+508
+01:12:42.120 --> 01:12:46.230
+Dr Maulik Patel .: Such patient will be quarantined, and we'll send RT-PCR.
+
+509
+01:12:46.520 --> 01:12:50.490
+Dr Maulik Patel .: The patient who are negative for articia, again, can enter the port.
+
+510
+01:12:50.620 --> 01:13:05.730
+Dr Maulik Patel .: Anybody who is positive will again be certified as moderate, mild, moderate, severe, and based on their rating, we will send it to hospital or the tertiary care center. So, because the economy has to go on, so we had created a system for this region.
+
+511
+01:13:07.400 --> 01:13:10.810
+Faculty (Olympus): Thank you, Dr. Molik. I think this is another excellent perspective.
+
+512
+01:13:11.830 --> 01:13:15.759
+Faculty (Olympus): So, thank you for sharing, this, and please…
+
+513
+01:13:15.890 --> 01:13:20.940
+Faculty (Olympus): Let them continue, even as we go through the presentation. Let them continue, because
+
+514
+01:13:22.110 --> 01:13:34.429
+Faculty (Olympus): a quick theme will start to emerge. I think that's the idea. There are multiple themes floating around, and I think everybody, for sure, I know, my niece, she is a doctor, and
+
+515
+01:13:34.690 --> 01:13:40.700
+Faculty (Olympus): like you, Harshita, she graduated from Aligram Muslim University.
+
+516
+01:13:40.830 --> 01:13:52.749
+Faculty (Olympus): And so I used to call her practically every day, and she was in the emergency room, and she was seeing… being a young doctor, right? I think when you face…
+
+517
+01:13:52.980 --> 01:13:59.830
+Faculty (Olympus): For the first time, this kind of situation, it can be very overwhelming. She was in tears, actually.
+
+518
+01:13:59.960 --> 01:14:04.920
+Faculty (Olympus): a lot of time. Like, she will see patients dying in front of her, and it was,
+
+519
+01:14:05.430 --> 01:14:11.899
+Faculty (Olympus): an amazing… an eye-opener for her, and I think she started questioning, like, am I in the right field?
+
+520
+01:14:12.070 --> 01:14:13.540
+Faculty (Olympus): So it also happened.
+
+521
+01:14:14.010 --> 01:14:17.190
+Faculty (Olympus): So there were a lot of things that were going around.
+
+522
+01:14:17.830 --> 01:14:23.249
+Faculty (Olympus): Right? And as a technologist, as somebody like myself.
+
+523
+01:14:24.130 --> 01:14:42.510
+Faculty (Olympus): when we go in, and when we talk to… so I work for pharmaceutical industry, we talk to our scientists, R&D people, the people who are running clinical trials and all that, I think understanding this perspective is very important, like, where somebody is coming from, like, what situation they are dealing with.
+
+524
+01:14:42.820 --> 01:14:51.079
+Faculty (Olympus): And you will hear a lot, when we design these AI solutions, We think about human-in-the-loop concept.
+
+525
+01:14:51.720 --> 01:14:55.450
+Faculty (Olympus): And in healthcare, we'll talk more and more that
+
+526
+01:14:55.720 --> 01:15:04.069
+Faculty (Olympus): The idea here is this, like, whatever AI solution we are building, or any solution we are building, for that matter.
+
+527
+01:15:04.290 --> 01:15:07.810
+Faculty (Olympus): It's never going to be a replacement for…
+
+528
+01:15:08.020 --> 01:15:17.710
+Faculty (Olympus): The physicians, the doctors, the nurses, the surgeons, I mean, they are the expert. All we are doing is to make their life better.
+
+529
+01:15:18.050 --> 01:15:24.580
+Faculty (Olympus): to augment their life, like, to augment what they do better. So basically, AI…
+
+530
+01:15:25.320 --> 01:15:30.369
+Faculty (Olympus): And physicians, and clinicians, they are working together and getting the best result.
+
+531
+01:15:31.150 --> 01:15:44.589
+Faculty (Olympus): That's the idea. So, we will talk more and more about those themes, so please keep that in mind, and as we go through the presentation. Today's presentation is… it's practically focused on COVID-19,
+
+532
+01:15:44.650 --> 01:15:51.780
+Faculty (Olympus): And the reason, as I said, I think we all were impacted by it, and we tried to find different ways to deal with it.
+
+533
+01:15:52.290 --> 01:15:56.169
+Faculty (Olympus): Now here comes the solution. One of the solutions, right?
+
+534
+01:15:56.800 --> 01:16:03.770
+Faculty (Olympus): So, as part of the practice, x-rays are pretty common.
+
+535
+01:16:04.140 --> 01:16:14.380
+Faculty (Olympus): So when we look for innovations in healthcare, a lot of time, some of… some of the things are right there in plain sight. It's just a matter of
+
+536
+01:16:14.900 --> 01:16:28.219
+Faculty (Olympus): paying attention to them, right? So somebody, I don't know who did that, somebody suggested, like, can we use, can we use x-ray, x-rays that we are taking of these patients who are showing symptoms.
+
+537
+01:16:28.560 --> 01:16:36.729
+Faculty (Olympus): And… X-rays were com… are common, we know. X-ray machines are commonly available, for the most part.
+
+538
+01:16:37.040 --> 01:16:40.260
+Faculty (Olympus): And… and there are a lot of data being generated.
+
+539
+01:16:40.510 --> 01:16:43.390
+Faculty (Olympus): Through these X-ray machines, like images.
+
+540
+01:16:43.590 --> 01:16:46.530
+Faculty (Olympus): Can we use that as a foundation?
+
+541
+01:16:47.410 --> 01:16:54.480
+Faculty (Olympus): to bring some AI into it, and start building some machine learning models which can recognize patterns.
+
+542
+01:16:55.010 --> 01:16:59.100
+Faculty (Olympus): Based on the images we are going to train that model on.
+
+543
+01:16:59.500 --> 01:17:01.949
+Faculty (Olympus): And that can, like, give us a quick…
+
+544
+01:17:02.100 --> 01:17:04.149
+Faculty (Olympus): Turn around and saying, you know.
+
+545
+01:17:04.350 --> 01:17:09.919
+Faculty (Olympus): Based on this image, we can predict whether somebody has COVID or not.
+
+546
+01:17:10.210 --> 01:17:17.119
+Faculty (Olympus): Obviously, it's not going to be 100% accurate. These are just machine learning models, and they are trained based on the data they have seen.
+
+547
+01:17:17.220 --> 01:17:20.199
+Faculty (Olympus): they try to recognize patterns. That's all they do.
+
+548
+01:17:21.040 --> 01:17:32.509
+Faculty (Olympus): So somebody came up with an idea, like, why can't we use x-ray machines, like, x-ray images, to start to see patterns that we see in patients who have COVID?
+
+549
+01:17:33.040 --> 01:17:33.780
+Faculty (Olympus): Right?
+
+550
+01:17:34.160 --> 01:17:34.940
+Faculty (Olympus): So…
+
+551
+01:17:35.260 --> 01:17:48.299
+Faculty (Olympus): that was an innovation that came into existence. We probably didn't hear a lot about it, but some of the countries more so, they deployed these solutions. They deployed solutions which
+
+552
+01:17:48.780 --> 01:17:59.270
+Faculty (Olympus): obviously, x-ray was not the only data point. There were other data points, too, like the demographics, age, and all that, too. So, bringing all of that together.
+
+553
+01:18:00.210 --> 01:18:09.480
+Faculty (Olympus): Along with images, X-ray images, you can start to predict whether somebody's going to have COVID or not.
+
+554
+01:18:09.600 --> 01:18:11.180
+Faculty (Olympus): Let me take a step back.
+
+555
+01:18:11.520 --> 01:18:17.379
+Faculty (Olympus): So when we build these AI models, as we all know, They're built off data.
+
+556
+01:18:17.900 --> 01:18:25.739
+Faculty (Olympus): So, you will hear a lot and a lot about data. Data. Everything is about data for AI solutions.
+
+557
+01:18:26.580 --> 01:18:31.660
+Faculty (Olympus): So, the one thing you will hear a lot, too, Trust in your data.
+
+558
+01:18:31.920 --> 01:18:35.299
+Faculty (Olympus): If you know your data is coming from
+
+559
+01:18:35.950 --> 01:18:37.869
+Faculty (Olympus): The source you can rely on.
+
+560
+01:18:38.050 --> 01:18:43.040
+Faculty (Olympus): If you're… you're sure that your data is… not…
+
+561
+01:18:43.710 --> 01:18:50.160
+Faculty (Olympus): I think consistently generated with no, like, somebody manipulating the data or something.
+
+562
+01:18:50.720 --> 01:18:56.720
+Faculty (Olympus): It's ethically collected, It's fairly collected.
+
+563
+01:18:56.870 --> 01:19:01.359
+Faculty (Olympus): When I say fairly collected, it means you are… it's a representative.
+
+564
+01:19:01.800 --> 01:19:11.059
+Faculty (Olympus): of the diverse community. It's not just focused on one area, or, like, one demographics, or one race, or one culture, or one… one region of the world.
+
+565
+01:19:11.200 --> 01:19:16.830
+Faculty (Olympus): Then you can be very confident, like, the data that you're getting, it's very diverse.
+
+566
+01:19:17.320 --> 01:19:24.610
+Faculty (Olympus): And you will hear a lot about diversity of data, too, in AI. The reason we say that, I will explain that more as we go along.
+
+567
+01:19:24.780 --> 01:19:28.669
+Faculty (Olympus): is that because when you build a model.
+
+568
+01:19:29.700 --> 01:19:41.989
+Faculty (Olympus): More diverse data it sees, the chances of it performing better across regions, across cultures, across races, across all variations that define us human.
+
+569
+01:19:43.190 --> 01:19:47.689
+Faculty (Olympus): you… you are better off. Your models will perform better.
+
+570
+01:19:48.130 --> 01:19:52.349
+Faculty (Olympus): So, we'll talk more about that. So just keep that point in mind, like, why we do that.
+
+571
+01:19:52.570 --> 01:20:00.800
+Faculty (Olympus): So the point being here, XA machines We're capturing images, And…
+
+572
+01:20:01.020 --> 01:20:16.530
+Faculty (Olympus): radiologists and anybody who was evaluating these X-ray machines, most likely they were also labeling those images as part of the process, looking at the image. There were some processes already in place.
+
+573
+01:20:16.740 --> 01:20:27.259
+Faculty (Olympus): to label that COVID, no COVID, and then obviously, with radiology, you can always pinpoint the area, too, like, highlight the area where
+
+574
+01:20:27.500 --> 01:20:34.710
+Faculty (Olympus): Which might indicate whether somebody has COVID or not, like lung infection, which part of the lung has infection, those kind of things.
+
+575
+01:20:35.800 --> 01:20:38.150
+Faculty (Olympus): So that became the foundation.
+
+576
+01:20:38.340 --> 01:20:43.099
+Faculty (Olympus): for building an AI solution, moving away from RT-PCR tests.
+
+577
+01:20:43.950 --> 01:20:55.099
+Faculty (Olympus): Well, I won't say we moved away from RT-PCRTL, because that's the gold standard. We knew that world, and we still had it, but the reason this solution
+
+578
+01:20:55.250 --> 01:20:59.820
+Faculty (Olympus): Was incepted, because We want it faster.
+
+579
+01:21:00.630 --> 01:21:01.680
+Faculty (Olympus): results.
+
+580
+01:21:02.800 --> 01:21:13.000
+Faculty (Olympus): I won't say it was 100% perfect, but at least it gave something, something to our, like, healthcare system
+
+581
+01:21:13.280 --> 01:21:14.509
+Faculty (Olympus): to rely on.
+
+582
+01:21:15.310 --> 01:21:22.520
+Faculty (Olympus): But even… even after, like, even if you… after building these solutions, I mean, the final say is…
+
+583
+01:21:22.920 --> 01:21:33.729
+Faculty (Olympus): is doctors say. They decide. But now they have something else to work off. Now they have more data, more information generated by AI.
+
+584
+01:21:34.180 --> 01:21:36.260
+Faculty (Olympus): To augment their decision.
+
+585
+01:21:37.300 --> 01:21:42.390
+Faculty (Olympus): Right? So that was the idea. That's how this… this X-ray,
+
+586
+01:21:42.740 --> 01:21:46.920
+Faculty (Olympus): Like, X-ray as a data point, was realized.
+
+587
+01:21:47.110 --> 01:21:52.620
+Faculty (Olympus): to use… for detecting whether somebody has COVID or not, infection or not.
+
+588
+01:21:54.130 --> 01:22:05.200
+Faculty (Olympus): Now, we'll talk more and more about this as we go along, and you might question, like, you know, somebody who has pneumonia may have same symptoms, right? I mean, lung infection, so…
+
+589
+01:22:05.550 --> 01:22:08.179
+Faculty (Olympus): But the way, when we train these models.
+
+590
+01:22:08.680 --> 01:22:17.439
+Faculty (Olympus): Right? When we train these models, over time, they can differentiate based on the data they're seeing, the images they're seeing.
+
+591
+01:22:17.540 --> 01:22:24.579
+Faculty (Olympus): they can recognize, and they can tell, you know, this is not COVID, this is probably pneumonia, so there's multi-classification that happens.
+
+592
+01:22:24.720 --> 01:22:29.759
+Faculty (Olympus): So, there are ways to do that, and we'll talk about that. We'll not go deep into it.
+
+593
+01:22:29.890 --> 01:22:31.690
+Faculty (Olympus): But keep that point in mind.
+
+594
+01:22:31.940 --> 01:22:35.870
+Faculty (Olympus): That these models can be very well trained
+
+595
+01:22:36.360 --> 01:22:41.419
+Faculty (Olympus): For a specific indication, based on the data we are feeding them into.
+
+596
+01:22:42.230 --> 01:22:42.910
+Faculty (Olympus): Right.
+
+597
+01:22:43.500 --> 01:22:49.669
+Faculty (Olympus): So, just a little more background, like, why x-rays? Because they were omnipresent for the most part.
+
+598
+01:22:50.130 --> 01:23:03.090
+Faculty (Olympus): Even, I saw somewhere, please don't count me on that, I saw a video, I mean, I think there's some mobile X-ray machines, too, now, I think you can carry. If you guys know about it, please share.
+
+599
+01:23:03.530 --> 01:23:09.229
+Faculty (Olympus): I heard that, especially for rural areas, remote areas.
+
+600
+01:23:09.690 --> 01:23:19.270
+Faculty (Olympus): in, like, countries where you don't have enough doctors or clinics and all, I mean, these machines were taken on, like, bikes and motorbikes, and…
+
+601
+01:23:19.660 --> 01:23:21.329
+Faculty (Olympus): They were taking x-rays.
+
+602
+01:23:21.590 --> 01:23:29.540
+Faculty (Olympus): That way, and I think that is still done. So the point being, X-ray is the very basic
+
+603
+01:23:30.760 --> 01:23:34.819
+Faculty (Olympus): Machinery system available across the board.
+
+604
+01:23:35.480 --> 01:23:40.580
+Faculty (Olympus): And that became the data source. That became the point of,
+
+605
+01:23:41.410 --> 01:23:46.640
+Faculty (Olympus): Like, anchor, like, anchor to building something on it.
+
+606
+01:23:48.850 --> 01:23:55.760
+Faculty (Olympus): So, now the next question became, though, okay, now we can use, A, I mean, obviously, Weird.
+
+607
+01:23:56.280 --> 01:24:02.680
+Faculty (Olympus): We can capture images and label those images and all that, but then…
+
+608
+01:24:02.810 --> 01:24:05.880
+Faculty (Olympus): who's going to do that, right? Means…
+
+609
+01:24:07.300 --> 01:24:15.340
+Faculty (Olympus): Radiologists. We rely on radiologists to look at the images and tell us, like, whether somebody has COVID or not, based on the patterns they have seen in the past.
+
+610
+01:24:16.700 --> 01:24:25.129
+Faculty (Olympus): But now we are adding burden. Like, now we are, like, just transferring kind of responsibility
+
+611
+01:24:25.740 --> 01:24:31.320
+Faculty (Olympus): From PCR tests to radiologists. We have not… we're not talking about AI yet. Like, we'll come to that, right?
+
+612
+01:24:32.060 --> 01:24:33.629
+Faculty (Olympus): So one way to do it is…
+
+613
+01:24:33.820 --> 01:24:45.039
+Faculty (Olympus): radiologists can look at the information, look at the images of the patients, and say whether they have COVID or not, based on their expertise, based on the information, based on, like, what they have seen over time, right?
+
+614
+01:24:45.620 --> 01:24:48.730
+Faculty (Olympus): But that's… that would have overwhelmed radiologists then.
+
+615
+01:24:49.170 --> 01:24:52.519
+Faculty (Olympus): Think about the number of patients coming in.
+
+616
+01:24:52.890 --> 01:24:56.659
+Faculty (Olympus): And now, on top of that number of images now they have to review.
+
+617
+01:24:57.260 --> 01:24:58.780
+Faculty (Olympus): That would not have worked.
+
+618
+01:25:00.020 --> 01:25:01.720
+Faculty (Olympus): Here comes AI. No.
+
+619
+01:25:03.820 --> 01:25:12.870
+Faculty (Olympus): that's been… When… when we know volume is high, values… is there.
+
+620
+01:25:13.640 --> 01:25:15.390
+Faculty (Olympus): We think of automation.
+
+621
+01:25:15.700 --> 01:25:16.650
+Faculty (Olympus): No.
+
+622
+01:25:16.790 --> 01:25:18.379
+Faculty (Olympus): In this scenario.
+
+623
+01:25:20.310 --> 01:25:38.660
+Faculty (Olympus): the automation can be, you know, when we talk about automation, there's something called robotic process automation, they're called chatbots automation, they're rule-based automations, you must have heard about symbolic automations and symbolic AI. I won't even call symbolic AIs an AI, it's just rule-based, right?
+
+624
+01:25:40.140 --> 01:25:42.299
+Faculty (Olympus): They're different forms of automations.
+
+625
+01:25:42.490 --> 01:25:44.550
+Faculty (Olympus): AI is just one form of automation.
+
+626
+01:25:44.960 --> 01:25:48.550
+Faculty (Olympus): Now… Not necessarily.
+
+627
+01:25:48.780 --> 01:25:56.640
+Faculty (Olympus): Every problem, every automation, may have AI as a solution.
+
+628
+01:25:56.870 --> 01:26:00.709
+Faculty (Olympus): You may be better off just simple rule-based automations.
+
+629
+01:26:01.490 --> 01:26:05.399
+Faculty (Olympus): And I will talk about more, like, claim industry in healthcare.
+
+630
+01:26:05.520 --> 01:26:08.790
+Faculty (Olympus): In health… in healthcare and insurance industries.
+
+631
+01:26:09.090 --> 01:26:22.359
+Faculty (Olympus): for claim automations, like for automatic data entry, for extracting data from claims, or whatever, invoices, payments, and all that, you don't need an AI, actually.
+
+632
+01:26:22.660 --> 01:26:34.150
+Faculty (Olympus): There's something called robotic process automation. You can automate some of the repetitive tasks and extract that. I will talk about that later, so just keep that in mind, too. So there… so the point I'm trying to make clear…
+
+633
+01:26:35.290 --> 01:26:44.660
+Faculty (Olympus): As a practitioner, as somebody in healthcare, you will be tasked with distilling out
+
+634
+01:26:45.050 --> 01:26:48.040
+Faculty (Olympus): whether AI is the right solution for this or not.
+
+635
+01:26:48.980 --> 01:26:53.490
+Faculty (Olympus): important point, because right now there's a big hype. Let me tell you one thing, you know?
+
+636
+01:26:53.700 --> 01:27:02.909
+Faculty (Olympus): As somebody who builds products, who develop solutions, AI, and being a product manager, I work very closely with business, too.
+
+637
+01:27:03.170 --> 01:27:05.899
+Faculty (Olympus): One of the biggest challenges we all face
+
+638
+01:27:06.010 --> 01:27:08.369
+Faculty (Olympus): AI is a big buzzword right now.
+
+639
+01:27:09.000 --> 01:27:10.970
+Faculty (Olympus): People say AI for everything.
+
+640
+01:27:11.890 --> 01:27:19.039
+Faculty (Olympus): as a product manager, a lot of… I spend a lot of time in challenging them, like, you know, let's not talk solution yet.
+
+641
+01:27:19.390 --> 01:27:21.359
+Faculty (Olympus): Let's understand what the problem is.
+
+642
+01:27:23.220 --> 01:27:26.910
+Faculty (Olympus): AI may not be the solution. It could be something else.
+
+643
+01:27:27.050 --> 01:27:32.280
+Faculty (Olympus): So keep that in mind. I think, you know, not every problem is going to be solved by AI.
+
+644
+01:27:32.380 --> 01:27:35.179
+Faculty (Olympus): But a lot of problems can be solved by AI.
+
+645
+01:27:36.510 --> 01:27:44.659
+Faculty (Olympus): In this scenario, with X-rays, we all… I think the healthcare system felt…
+
+646
+01:27:44.920 --> 01:27:49.349
+Faculty (Olympus): That, yes, we can solve it, because image processing is not new.
+
+647
+01:27:49.870 --> 01:27:58.520
+Faculty (Olympus): Image recognition is not a new concept. It's been there in software industry or the computation industry for the longest time.
+
+648
+01:27:58.960 --> 01:28:05.930
+Faculty (Olympus): People are much better off in image processing today than we were, like, 10, 20, 30 years ago.
+
+649
+01:28:06.360 --> 01:28:08.609
+Faculty (Olympus): So, the technology was there.
+
+650
+01:28:09.200 --> 01:28:14.690
+Faculty (Olympus): It's just a matter of, like, using that to build some models.
+
+651
+01:28:15.350 --> 01:28:20.700
+Faculty (Olympus): And how we build models. You take those images, you train, And…
+
+652
+01:28:21.180 --> 01:28:22.650
+Faculty (Olympus): This is how it works out.
+
+653
+01:28:22.860 --> 01:28:29.300
+Faculty (Olympus): Very high level, guys. I think there is a lot that goes behind the scene, but I'll give you my perspective when we train these models, how we do it.
+
+654
+01:28:29.460 --> 01:28:31.350
+Faculty (Olympus): So, they're images.
+
+655
+01:28:31.770 --> 01:28:32.979
+Faculty (Olympus): Which is one…
+
+656
+01:28:34.010 --> 01:28:51.459
+Faculty (Olympus): data point, right? So now, as you know, I mean, you can have structured data. When we say structured data, think of it like, you know, you have an Excel spreadsheet, and you have patient information, age, whatever, their BMI, and all those lab reports, liver enzyme, whatever you're capturing, right?
+
+657
+01:28:51.460 --> 01:28:56.939
+Faculty (Olympus): And then there can be unstructured data. When we say unstructured data, it's usually tax data.
+
+658
+01:28:56.940 --> 01:29:00.980
+Faculty (Olympus): It could be images, it could be videos, those kind of things.
+
+659
+01:29:01.230 --> 01:29:07.229
+Faculty (Olympus): Now we are at a point where we can build models by bringing unstructured, structured data together.
+
+660
+01:29:08.090 --> 01:29:10.869
+Faculty (Olympus): Images are considered as unstructured data.
+
+661
+01:29:11.370 --> 01:29:14.340
+Faculty (Olympus): So what happens when we capture these images?
+
+662
+01:29:14.660 --> 01:29:18.919
+Faculty (Olympus): Somebody looks… somebody has looked at… looked at those images in past.
+
+663
+01:29:19.280 --> 01:29:25.780
+Faculty (Olympus): And they have labeled those images as COVID, no COVID, with good metadata.
+
+664
+01:29:25.980 --> 01:29:32.440
+Faculty (Olympus): pointing out if it's COVID because of this. So there is an image, highlighted, those kind of things.
+
+665
+01:29:32.950 --> 01:29:38.100
+Faculty (Olympus): Now, you have thousands of images, Available to you.
+
+666
+01:29:39.210 --> 01:29:58.150
+Faculty (Olympus): somebody labeled it. Somebody has to do the first part. Maybe the due list is, like, when we started building this AI solution, somebody has to do that part, like labeling the data, because your models are built on historical data, especially the predictor… predictor models. They're built on historically available data, because
+
+667
+01:29:58.830 --> 01:30:02.000
+Faculty (Olympus): All machine learning models do.
+
+668
+01:30:02.130 --> 01:30:09.120
+Faculty (Olympus): They rely on the patterns they see in the data, and they make their predictions based on that.
+
+669
+01:30:09.800 --> 01:30:16.629
+Faculty (Olympus): So we train machines like that. So in this case, A model was trained.
+
+670
+01:30:16.800 --> 01:30:35.199
+Faculty (Olympus): Using some algorithms, and when we say algorithms, actually, in artificial intelligence, they're nothing but mathematics. So that's another hype, is keep it in mind, this is nothing… there's no rocket science behind AI. There's no rocket science. There is mathematics. Everything is mathematics behind AI.
+
+671
+01:30:35.350 --> 01:30:38.170
+Faculty (Olympus): So you understand the mathematics, you get AI.
+
+672
+01:30:38.320 --> 01:30:45.590
+Faculty (Olympus): Period. Why it's become so prevalent now is just because now we have the computation power we didn't have before.
+
+673
+01:30:46.570 --> 01:31:01.489
+Faculty (Olympus): people were doing computations like AI in past, too. They are statistical models. If you remember, the first model you built was in your high school, the linear algebra, we all did, right? That is… it's a linear equation is also a form of,
+
+674
+01:31:01.630 --> 01:31:04.810
+Faculty (Olympus): form of machine learning model. Actually, algorithm.
+
+675
+01:31:04.960 --> 01:31:11.079
+Faculty (Olympus): So, that's the basics. That's the basics. So, basically how we do it, we train a model.
+
+676
+01:31:11.520 --> 01:31:22.179
+Faculty (Olympus): Now the model has been trained, and it knows, like, when it… some image comes to that model, that image… it can go through, like, dissecting that image.
+
+677
+01:31:22.320 --> 01:31:34.440
+Faculty (Olympus): And then it can predict whether somebody has COVID or not in this scenario. Same thing can be done with cancer detection as well, and other… there are multiple applications to it. So that's the philosophy now.
+
+678
+01:31:35.110 --> 01:31:37.240
+Faculty (Olympus): COVID images coming in.
+
+679
+01:31:37.710 --> 01:31:45.260
+Faculty (Olympus): COVID, no COVID image coming, and you just took… it basically took a patient's image, Goes through the model.
+
+680
+01:31:46.020 --> 01:31:47.859
+Faculty (Olympus): Something comes out of the moral.
+
+681
+01:31:48.830 --> 01:31:52.370
+Faculty (Olympus): So think of these models when we, you know.
+
+682
+01:31:53.180 --> 01:31:55.649
+Faculty (Olympus): I think it might sound very,
+
+683
+01:31:55.750 --> 01:32:00.000
+Faculty (Olympus): Not… like, it may not sync, and it may become tangible.
+
+684
+01:32:00.740 --> 01:32:08.629
+Faculty (Olympus): When we create these models, It's like an artifact, it's like a file that gets created.
+
+685
+01:32:09.160 --> 01:32:11.900
+Faculty (Olympus): And something goes in that, something comes out of that.
+
+686
+01:32:12.730 --> 01:32:27.080
+Faculty (Olympus): So we build these files, we kill… maybe at some point during the course of the presentation, not today, maybe in the following presentation, I will show you a model, like, how it looks like, so that you can think of it, like, how… like, how it's all happening, right?
+
+687
+01:32:27.700 --> 01:32:33.029
+Faculty (Olympus): So in this scenario, now what happens? Model has been trained, images come in.
+
+688
+01:32:33.540 --> 01:32:47.879
+Faculty (Olympus): some pre-processing happens, and when we say pre-processing for images, it's usually, you know, all these models, can only take images or data in certain format. They cannot work on all the formats.
+
+689
+01:32:48.380 --> 01:32:53.169
+Faculty (Olympus): So you have to convert that image into a format that model can take.
+
+690
+01:32:53.880 --> 01:32:56.680
+Faculty (Olympus): If you send it in different format, they may not get it.
+
+691
+01:32:57.020 --> 01:33:05.700
+Faculty (Olympus): That's the idea. So the pure solution was this. Images come in, Go through the model, Prediction comes out.
+
+692
+01:33:07.090 --> 01:33:10.230
+Faculty (Olympus): And that becomes part of your clinical workflow.
+
+693
+01:33:11.510 --> 01:33:18.050
+Faculty (Olympus): So, all you have done… There is a clinical workflow healthcare system and clinicians follow.
+
+694
+01:33:18.600 --> 01:33:25.230
+Faculty (Olympus): And along the way, When… when a physician or clinician is deciding.
+
+695
+01:33:25.450 --> 01:33:36.329
+Faculty (Olympus): like, what… whether I should, like, have some intervention for patient, and based on the lab results and everything else.
+
+696
+01:33:36.510 --> 01:33:44.170
+Faculty (Olympus): Now what you're doing, you're just inserting one more… Hop-up, or something, with risk.
+
+697
+01:33:45.150 --> 01:33:47.310
+Faculty (Olympus): You can say, well, you know.
+
+698
+01:33:47.730 --> 01:34:02.489
+Faculty (Olympus): And we call that stratification. I think this is not a new concept, probably you guys know. We, we, the model spits out, this person has, most likely has COVID, and IAM model also tells you the probability.
+
+699
+01:34:02.830 --> 01:34:09.470
+Faculty (Olympus): with confidence. It might say, this person probably has COVID, and I am 60% confident.
+
+700
+01:34:10.430 --> 01:34:13.909
+Faculty (Olympus): Right? So now, you can start to assign
+
+701
+01:34:14.020 --> 01:34:19.349
+Faculty (Olympus): Different probability, and then based on the confidence your model is giving you.
+
+702
+01:34:19.650 --> 01:34:26.500
+Faculty (Olympus): now physicians can determine whatever action they need to take. So, this is just an assistant
+
+703
+01:34:26.960 --> 01:34:29.650
+Faculty (Olympus): That's now available to doctors.
+
+704
+01:34:30.310 --> 01:34:31.020
+Faculty (Olympus): Right?
+
+705
+01:34:33.170 --> 01:34:42.140
+Faculty (Olympus): So this is how we train models. At some point, I will show you what these neural networks look like.
+
+706
+01:34:42.290 --> 01:34:46.610
+Faculty (Olympus): Chatgpt, OpenAI, those are deep neural networks.
+
+707
+01:34:47.740 --> 01:34:52.060
+Faculty (Olympus): And, it's… So, neural networks are good.
+
+708
+01:34:52.190 --> 01:34:54.509
+Faculty (Olympus): For training on images.
+
+709
+01:34:55.130 --> 01:35:07.280
+Faculty (Olympus): Right? Now, neural network may sound very, like, well, obviously, this is a healthcare program, but may seem like very medically-oriented terminology.
+
+710
+01:35:07.870 --> 01:35:12.369
+Faculty (Olympus): But the concept is practically the same. We just…
+
+711
+01:35:12.830 --> 01:35:21.100
+Faculty (Olympus): There… this is, like, neural network is nothing but another mathematical model that is used to recognize patterns.
+
+712
+01:35:22.080 --> 01:35:27.249
+Faculty (Olympus): That's… it is. Nothing else it is. And maybe at some point, I'll show you that mathematical model, too.
+
+713
+01:35:27.360 --> 01:35:32.150
+Faculty (Olympus): It… it definitely mimics the way our brain kind of learns things.
+
+714
+01:35:32.820 --> 01:35:51.609
+Faculty (Olympus): So all of these are nothing but… you can think of those as neurons. And in a neural network, we call them as weights. So these are different, like, entry points. Everything gets assigned weights, and over time, as you train these models, you form different weights, and that becomes your machine learning model.
+
+715
+01:35:53.680 --> 01:36:05.880
+Faculty (Olympus): One thing I just want to state quickly to you guys, just to differentiate the three things. So there is something called as algorithm, there is something called as machine learning model, and then there is something called predictions, right? There are three separate things.
+
+716
+01:36:06.570 --> 01:36:17.099
+Faculty (Olympus): So, algorithm, you will hear a lot. Algorithm is the mathematical models and practices algorithm that people have done research on, and we use that.
+
+717
+01:36:17.700 --> 01:36:24.559
+Faculty (Olympus): You will hear something like ExeBoost, CNNs, conventional neural networks, a lot of different ways to train models.
+
+718
+01:36:25.530 --> 01:36:30.549
+Faculty (Olympus): So, think of it this way, at a very high level. You don't have to go in detail in depth yet.
+
+719
+01:36:30.660 --> 01:36:33.279
+Faculty (Olympus): You use algorithms?
+
+720
+01:36:33.780 --> 01:36:35.270
+Faculty (Olympus): to build models.
+
+721
+01:36:35.980 --> 01:36:37.570
+Faculty (Olympus): models predict.
+
+722
+01:36:38.640 --> 01:36:44.069
+Faculty (Olympus): So models and algorithms are two different things. I think a lot of times, people use them interchangeably.
+
+723
+01:36:44.520 --> 01:36:51.900
+Faculty (Olympus): And AI is an overcompassing kind of, terminology. It includes machine learning, it includes,
+
+724
+01:36:52.370 --> 01:37:01.149
+Faculty (Olympus): like, AI solutions, there's a lot of different things we talk about, even transformers like ChatGPT and all, they're all part of AI solutions.
+
+725
+01:37:02.560 --> 01:37:04.299
+Faculty (Olympus): Talking about this solution.
+
+726
+01:37:04.480 --> 01:37:08.530
+Faculty (Olympus): So when this solution was built, it was strained on x-rays.
+
+727
+01:37:09.220 --> 01:37:12.830
+Faculty (Olympus): Model was created using neural network algorithm.
+
+728
+01:37:13.340 --> 01:37:21.919
+Faculty (Olympus): And at the end, it… it was outputting… COVID, no COVID prediction?
+
+729
+01:37:22.130 --> 01:37:33.510
+Faculty (Olympus): And then, on top of that, It was producing images with with… From the image, highlighted as…
+
+730
+01:37:33.680 --> 01:37:42.790
+Faculty (Olympus): Red, green, blue. Blue meant no infection, red kind of indicated that… This is the area.
+
+731
+01:37:43.570 --> 01:37:50.140
+Faculty (Olympus): Where you need to focus on, and I'm basing my decision I'm predicting somebody has COVID,
+
+732
+01:37:50.370 --> 01:37:52.520
+Faculty (Olympus): Based on this highlighted area.
+
+733
+01:37:54.120 --> 01:38:02.639
+Faculty (Olympus): Now, one thing I want to mention to you… any question? I know that there's a lot of talks, and there are a lot of you talking about. Any questions you have here? Guys, I'll take a quick pause.
+
+734
+01:38:02.980 --> 01:38:05.829
+Faculty (Olympus): And then, take a few questions from you.
+
+735
+01:38:07.150 --> 01:38:13.459
+Faculty (Olympus): Is this sinking in? I know it's very early, so please don't, don't, don't worry, it'll all sort of make sense.
+
+736
+01:38:14.970 --> 01:38:16.890
+Dr Anand Deshpande .: Could I, could I ask something? .
+
+737
+01:38:17.080 --> 01:38:17.640
+Faculty (Olympus): Yes, please.
+
+738
+01:38:17.640 --> 01:38:31.610
+Dr Anand Deshpande .: In this… in future discussions, we'll be discussing in little detail about the neural networks, because that is highly technical for medical persons like us, but would be interesting to know more about it.
+
+739
+01:38:32.800 --> 01:38:42.999
+Faculty (Olympus): You know, I think a good point, Alan. I think you raise another, good question. Though we'll not go very, in-depth into neural networks.
+
+740
+01:38:43.660 --> 01:38:51.139
+Faculty (Olympus): Because that definitely becomes technical, and… and… but what I can do, actually, as you go along the way.
+
+741
+01:38:51.750 --> 01:39:01.320
+Faculty (Olympus): I can share some write-ups, I can share some articles, I can share some short videos for you to just get an idea about these different ways to train models.
+
+742
+01:39:01.570 --> 01:39:02.290
+Faculty (Olympus): Right?
+
+743
+01:39:02.700 --> 01:39:04.160
+Dr Anand Deshpande .: On…
+
+744
+01:39:04.620 --> 01:39:10.000
+Faculty (Olympus): Yeah, and on top of that, actually, I can also show you, a few working solutions.
+
+745
+01:39:10.560 --> 01:39:12.040
+Faculty (Olympus): Like, how these neural networks work.
+
+746
+01:39:12.040 --> 01:39:13.000
+Mohamed Ebraheem Elmesserey .: What am I looking for?
+
+747
+01:39:14.920 --> 01:39:15.449
+Dr Anand Deshpande .: Thank you.
+
+748
+01:39:15.450 --> 01:39:21.020
+Faculty (Olympus): Thank you. And, and, because today I just started to see the week two.
+
+749
+01:39:21.100 --> 01:39:25.279
+Mohamed Ebraheem Elmesserey .: articles which he sent to us on the Olympus website.
+
+750
+01:39:25.400 --> 01:39:34.370
+Mohamed Ebraheem Elmesserey .: Actually, it was quite interesting for me because, all the algorithms… there's one, lecture, And,
+
+751
+01:39:34.540 --> 01:39:44.980
+Mohamed Ebraheem Elmesserey .: There's also summary for all the structure, including this neural network, advanced, advanced, and also the tree, algorithms, everything is there, actually. It's very interesting for me, because for me, it's for sure, it's time to see.
+
+752
+01:39:46.270 --> 01:39:48.080
+Faculty (Olympus): Thank you for bringing it out, and…
+
+753
+01:39:48.080 --> 01:39:48.960
+Mohamed Ebraheem Elmesserey .: I would end, yeah.
+
+754
+01:39:50.180 --> 01:39:52.249
+Faculty (Olympus): Anybody else has any thoughts?
+
+755
+01:39:54.950 --> 01:39:56.990
+Harshitha Reddy .: Oh, hell, yeah, I have one doubt.
+
+756
+01:39:57.780 --> 01:39:58.480
+Faculty (Olympus): Yes, please.
+
+757
+01:39:58.890 --> 01:40:06.590
+Harshitha Reddy .: Yeah, so today itself, I was going through one of the… I haven't watched any of the week-to videos, but I went through one of the notes regarding algorithm, and it says…
+
+758
+01:40:06.590 --> 01:40:23.409
+Harshitha Reddy .: I've seen… the first thing I've read was about regression, something about regression, logistic regression, or something. So, I thought all this while since the COVID thing was just to differentiate between positive and negative, so why didn't they use the regression algorithm instead of neural network?
+
+759
+01:40:24.120 --> 01:40:26.609
+Faculty (Olympus): Good question, Ashita. I think, you know… so…
+
+760
+01:40:28.630 --> 01:40:38.539
+Faculty (Olympus): So, there are multiple algorithms, right? So, logistics regression, and computer networks, you will hear something like ISG boost, gradient boost.
+
+761
+01:40:38.660 --> 01:40:42.519
+Faculty (Olympus): SVM, vector machines, right?
+
+762
+01:40:43.210 --> 01:40:44.280
+Faculty (Olympus): Each one of…
+
+763
+01:40:44.480 --> 01:40:53.119
+Faculty (Olympus): Each one of them have their pros and cons and benefits, and each one of them work good based on the data they're working off.
+
+764
+01:40:54.190 --> 01:40:59.030
+Faculty (Olympus): So, these neural networks, they work the best with images.
+
+765
+01:41:00.010 --> 01:41:09.119
+Faculty (Olympus): So when we train models, guys, so when we train models, actually, we try multiple different algorithms. So you may have, like, 10 to 12 algorithms working.
+
+766
+01:41:09.480 --> 01:41:14.069
+Faculty (Olympus): Like, you may have logistic regression, you may have CNNs.
+
+767
+01:41:14.240 --> 01:41:22.000
+Faculty (Olympus): You may have a gradient boost, you may have decisions tree, you may have random forest, like, there are multiple algorithms that you can try.
+
+768
+01:41:23.100 --> 01:41:26.059
+Faculty (Olympus): In the end, whichever produces the best result.
+
+769
+01:41:26.220 --> 01:41:30.529
+Faculty (Olympus): you go with that. So basically, when we are… actually, when we are training these models.
+
+770
+01:41:30.570 --> 01:41:43.939
+Faculty (Olympus): We don't just apply one algorithm just like that. By intuition. By intuition, you already know. Actually, when you start to practice this more and more, for the most part, when we are dealing with X-rays or images.
+
+771
+01:41:43.940 --> 01:41:54.690
+Faculty (Olympus): neural networks work the best, like conventional neural network, the recurrent neural network, RNNs. So when you hear word neural network, think of it this way.
+
+772
+01:41:55.650 --> 01:41:57.420
+Faculty (Olympus): They work well with images.
+
+773
+01:41:59.490 --> 01:42:02.779
+Faculty (Olympus): Logistic regression may not work very well with images.
+
+774
+01:42:03.530 --> 01:42:09.000
+Faculty (Olympus): So, decision on… Which algorithm to use?
+
+775
+01:42:09.770 --> 01:42:18.550
+Faculty (Olympus): comes from what is giving you the best results, outputs. And when I say that, I'm just…
+
+776
+01:42:18.660 --> 01:42:25.840
+Faculty (Olympus): We will not go in very much detail yet, because it might start to confuse you guys, but think of it this way. When we are comparing models.
+
+777
+01:42:26.880 --> 01:42:33.789
+Faculty (Olympus): We compare it based on… How close they are to the real-world scenarios.
+
+778
+01:42:34.340 --> 01:42:40.019
+Faculty (Olympus): So there is a physician who is deciding, based on lab reports and everything they are seeing.
+
+779
+01:42:40.340 --> 01:42:44.649
+Faculty (Olympus): Now there is a model that is actually giving some predictions.
+
+780
+01:42:45.860 --> 01:42:47.229
+Faculty (Olympus): Are they close enough?
+
+781
+01:42:48.150 --> 01:42:53.229
+Faculty (Olympus): Right? Are they close enough to what your doctor is saying, or physician is saying?
+
+782
+01:42:55.480 --> 01:43:02.030
+Faculty (Olympus): That decides the model deployment. I think that also kind of determines
+
+783
+01:43:02.210 --> 01:43:06.099
+Faculty (Olympus): That which algorithm produced the best result, and you go with it.
+
+784
+01:43:06.540 --> 01:43:11.339
+Faculty (Olympus): I hope that answered your question, Harshita, because that's… basically, it all boils down to…
+
+785
+01:43:11.560 --> 01:43:15.530
+Faculty (Olympus): the results. Like, which one is giving you the best results for a given scenario?
+
+786
+01:43:18.870 --> 01:43:19.880
+Faculty (Olympus): Is it okay?
+
+787
+01:43:20.040 --> 01:43:24.190
+Harshitha Reddy .: Yeah, yeah, thank you. So right now, the most popular one is neural network.
+
+788
+01:43:25.130 --> 01:43:27.220
+Faculty (Olympus): I won't call most popular one.
+
+789
+01:43:28.050 --> 01:43:34.049
+Faculty (Olympus): But I would say, like, forest, it's… it… they work well with images and, like,
+
+790
+01:43:34.460 --> 01:43:36.619
+Faculty (Olympus): When image processing comes in, yeah.
+
+791
+01:43:37.390 --> 01:43:38.120
+Harshitha Reddy .: All right.
+
+792
+01:43:39.700 --> 01:43:44.759
+Faculty (Olympus): But if it's pure, like, data, unstruct… structured data.
+
+793
+01:43:45.420 --> 01:43:49.459
+Faculty (Olympus): And you will see, actually, I might share some examples with you later.
+
+794
+01:43:49.870 --> 01:43:53.140
+Faculty (Olympus): Gradient Boost is another form of algorithm.
+
+795
+01:43:53.550 --> 01:43:55.320
+Faculty (Olympus): That we use to build models.
+
+796
+01:43:55.560 --> 01:43:58.010
+Faculty (Olympus): They work very well on unstructured data.
+
+797
+01:43:58.310 --> 01:44:07.170
+Faculty (Olympus): And interestingly, the more and more I'm building these models, I'm realizing, actually, between logistic regression and gradient boost.
+
+798
+01:44:07.800 --> 01:44:15.589
+Faculty (Olympus): most of your AI solutions will fall. Almost, I would say, like, 60, 60-70% will fall.
+
+799
+01:44:16.220 --> 01:44:22.770
+Faculty (Olympus): within that. Don't take my words on it, it might change, but what I have seen so far. So, between gradient boost.
+
+800
+01:44:23.000 --> 01:44:29.890
+Faculty (Olympus): and logistic regression, and this is what I've seen, actually. They are… they… for the most part, the models I have built.
+
+801
+01:44:30.010 --> 01:44:32.090
+Faculty (Olympus): They have produced the best results for me.
+
+802
+01:44:32.800 --> 01:44:37.090
+Faculty (Olympus): Neural networks have produced good results for images, image processing.
+
+803
+01:44:39.560 --> 01:44:40.240
+Faculty (Olympus): So…
+
+804
+01:44:41.180 --> 01:44:51.339
+Faculty (Olympus): So, don't go by that, neural networks are not very popular, though neural networks, like, have gotten popular because of ChatGPT and all, because they are deep neural networks, that's what they use behind the scenes.
+
+805
+01:44:51.720 --> 01:44:59.370
+Faculty (Olympus): But this is just one application. So ChatGPT is just one application. Let's think of it this way. This is not the end, like, a lot of language models.
+
+806
+01:44:59.770 --> 01:45:05.350
+Faculty (Olympus): different conversation, but just wanted to, throw that… throw light on that. So,
+
+807
+01:45:05.860 --> 01:45:16.319
+Faculty (Olympus): AI is not very, like, new to us. We use AI, Netflix uses that. Google Maps means in day-to-day life, AI is commonly used.
+
+808
+01:45:16.410 --> 01:45:27.269
+Faculty (Olympus): And it's all based on the data. Historically, what data we have collected, we just train these models using some certain algorithms.
+
+809
+01:45:27.520 --> 01:45:31.049
+Faculty (Olympus): For them to start mimicking and producing results.
+
+810
+01:45:31.410 --> 01:45:36.090
+Faculty (Olympus): Like a human would do in that scenario, based on the information they have.
+
+811
+01:45:36.440 --> 01:45:40.829
+Faculty (Olympus): The only difference here is, since these are softwares.
+
+812
+01:45:41.590 --> 01:45:45.240
+Faculty (Olympus): They can probably produce results faster.
+
+813
+01:45:45.690 --> 01:45:47.620
+Faculty (Olympus): than any human.
+
+814
+01:45:48.190 --> 01:45:50.259
+Faculty (Olympus): Right? So, that's the idea.
+
+815
+01:45:50.570 --> 01:45:51.390
+Faculty (Olympus): So…
+
+816
+01:45:51.950 --> 01:45:59.459
+Faculty (Olympus): So, when we… when this solution was built, obviously, there were a couple of things that happened. The one is,
+
+817
+01:45:59.870 --> 01:46:05.800
+Faculty (Olympus): whether some… it's a COVID, no COVID… And then… this image…
+
+818
+01:46:06.230 --> 01:46:09.259
+Faculty (Olympus): Like, this is the input image, one example.
+
+819
+01:46:09.420 --> 01:46:13.500
+Faculty (Olympus): And then there's a technology that's used, GradCamp, so you guys must have heard about it.
+
+820
+01:46:13.670 --> 01:46:28.789
+Faculty (Olympus): So basically, what happens, this model, coupled with this GradCam technology, not only, gives you the predictions, but it also tells you, as an output, by highlighting the area that why
+
+821
+01:46:29.120 --> 01:46:33.800
+Faculty (Olympus): These mortal things… that this person has COVID or no COVID.
+
+822
+01:46:34.500 --> 01:46:38.630
+Faculty (Olympus): by… These color-coded outputs.
+
+823
+01:46:39.600 --> 01:46:42.009
+Faculty (Olympus): So, now think of it this way.
+
+824
+01:46:42.670 --> 01:46:47.170
+Faculty (Olympus): A very important point we're going to raise here, and please think about it after this class.
+
+825
+01:46:49.280 --> 01:46:56.180
+Faculty (Olympus): The biggest challenge with these AI models, or machine learning models, when we deploy, in real life.
+
+826
+01:46:57.090 --> 01:46:59.359
+Faculty (Olympus): They kind of become black box.
+
+827
+01:47:00.570 --> 01:47:19.080
+Faculty (Olympus): with physician, when you talk about, like, disease diagnosis, you can discuss. They have the knowledge, they can very well say, you know, I based my decision based on these criteria, and historically, this is what I've seen, right? This is my hypothesis, and this is what I believe is the outcome.
+
+828
+01:47:20.130 --> 01:47:25.710
+Faculty (Olympus): Simple enough. You trust doctors. You trust physicians because they've been trained on that.
+
+829
+01:47:26.640 --> 01:47:28.829
+Faculty (Olympus): Can we do that with AI models?
+
+830
+01:47:29.210 --> 01:47:33.770
+Faculty (Olympus): Can my AI model tell me what it base a decision on?
+
+831
+01:47:34.310 --> 01:47:37.499
+Faculty (Olympus): Can I trust it? Is it transparent?
+
+832
+01:47:37.750 --> 01:47:42.050
+Faculty (Olympus): Can it explain its results? Like, how it's producing its results?
+
+833
+01:47:45.090 --> 01:47:49.310
+Faculty (Olympus): That's… The common question you will hear a lot.
+
+834
+01:47:49.500 --> 01:47:55.480
+Faculty (Olympus): constantly. People, especially in healthcare settings, even in pharma industry, where I work.
+
+835
+01:47:55.950 --> 01:48:02.610
+Faculty (Olympus): it's a common question, you know? Okay, AI is all good, and it might be producing results.
+
+836
+01:48:02.740 --> 01:48:08.980
+Faculty (Olympus): to the same level as other people are. I mean, in a real world, they're kind of matching up.
+
+837
+01:48:10.060 --> 01:48:12.729
+Faculty (Olympus): But the question becomes, can you… can you trust it?
+
+838
+01:48:13.800 --> 01:48:17.020
+Faculty (Olympus): And trust comes when you start to explain things.
+
+839
+01:48:17.250 --> 01:48:22.919
+Faculty (Olympus): Right? When you try… when it becomes transparent, when you know what data came in.
+
+840
+01:48:22.950 --> 01:48:29.180
+Faculty (Olympus): And then towards the end, your model can also say that I base my decision
+
+841
+01:48:29.180 --> 01:48:44.239
+Faculty (Olympus): based on this, this, these factors. And those factors could be lab results, it could be age, it could be BMI, I'm just giving all these different data points, and, and liver… WBC count, hemoglobin count.
+
+842
+01:48:44.830 --> 01:48:51.949
+Faculty (Olympus): Your model is practically giving, that the reason it's basing its decision.
+
+843
+01:48:52.210 --> 01:48:53.070
+Faculty (Olympus): on.
+
+844
+01:48:53.500 --> 01:48:56.560
+Faculty (Olympus): The same factors that physicians might use.
+
+845
+01:48:57.350 --> 01:49:00.300
+Faculty (Olympus): So this GradCam is one such example.
+
+846
+01:49:00.890 --> 01:49:07.460
+Faculty (Olympus): What if? What if, instead of, like, this image comes in, and all you get
+
+847
+01:49:08.920 --> 01:49:14.039
+Faculty (Olympus): is just COVID, no COVID, no explanation, nothing. Will you trust it?
+
+848
+01:49:14.590 --> 01:49:21.579
+Faculty (Olympus): Probably not, right? So this is… this is one of the themes that we work on when we do these AI solutions.
+
+849
+01:49:22.180 --> 01:49:25.730
+Faculty (Olympus): As… so, remind me, actually, I'm,
+
+850
+01:49:26.790 --> 01:49:33.020
+Faculty (Olympus): maybe… I will be publishing in a few weeks, actually. So there is a… there is a framework I'm building, it's called PACT Care.
+
+851
+01:49:33.260 --> 01:49:37.119
+Faculty (Olympus): for AI adoption in healthcare setups, like in workflows.
+
+852
+01:49:38.630 --> 01:49:51.880
+Faculty (Olympus): So what it does, actually, it takes ideas end-to-end for development, and not only that, it also talks about, like, how do you incorporate transparency, fairness, like, ethical adoption and all that.
+
+853
+01:49:51.890 --> 01:50:05.150
+Faculty (Olympus): with automation, and obviously, also you go through evaluation, and then human in the loop, like, who should be deciding and what point. So it's a pretty comprehensive framework that I'm publishing soon, and hopefully that'll help you guys.
+
+854
+01:50:06.860 --> 01:50:14.670
+Faculty (Olympus): So, the point I'm trying to make here, guys, I know there's a lot of, spending a lot of time here, just… just take one point away from this conversation, if you can, today.
+
+855
+01:50:15.930 --> 01:50:19.810
+Faculty (Olympus): when we build these AI solutions, Trust me.
+
+856
+01:50:19.930 --> 01:50:24.260
+Faculty (Olympus): Building an AI solution is not at all a rocket science.
+
+857
+01:50:26.080 --> 01:50:34.760
+Faculty (Olympus): You can pretty much build solution… you can train a model pretty quickly with the computation power that's available.
+
+858
+01:50:35.280 --> 01:50:39.709
+Faculty (Olympus): The real challenge comes the adoption and scaling it.
+
+859
+01:50:40.730 --> 01:50:45.979
+Faculty (Olympus): That's where you will find lots and lots of your effort going in.
+
+860
+01:50:46.840 --> 01:50:50.640
+Faculty (Olympus): Building AI model is not at all a problem, trust me on that.
+
+861
+01:50:51.760 --> 01:51:02.159
+Faculty (Olympus): Trust me on that. You give somebody data, you tell them what output, what results you want, you give them the endpoint, you define, like, whatever you want this model to do.
+
+862
+01:51:02.440 --> 01:51:13.379
+Faculty (Olympus): Data scientists will build it for you. It's not at all a challenge. The real challenge is the adoption. Adoption of that, and then scaling it up, so that people are using it and trusting it.
+
+863
+01:51:14.680 --> 01:51:19.259
+Faculty (Olympus): with proper explainability and all that. Any question before we go in?
+
+864
+01:51:19.650 --> 01:51:27.549
+Faculty (Olympus): So, let me finish this, and then we can take around on a few questions. So, this is it. Model was built.
+
+865
+01:51:27.860 --> 01:51:29.779
+Faculty (Olympus): to… on x-rays, and it… it…
+
+866
+01:51:30.350 --> 01:51:40.960
+Faculty (Olympus): It produced some predictions, and not only that, it produced some output images with highlighted
+
+867
+01:51:41.900 --> 01:51:52.180
+Faculty (Olympus): like, color-coded, indicating why it made that decision. But I just want to make one differentiation here, guys. So, when we build these AI models.
+
+868
+01:51:52.740 --> 01:51:56.260
+Faculty (Olympus): Especially in this image output that you're seeing.
+
+869
+01:51:56.470 --> 01:52:08.820
+Faculty (Olympus): Here, actually, you… model is one part, so Mortal built… started giving predictions but this…
+
+870
+01:52:09.000 --> 01:52:19.360
+Faculty (Olympus): GradCam highlights and everything, it's actually using some other technology to do that. Just don't think that you build a machine learning model and it's producing this.
+
+871
+01:52:19.530 --> 01:52:25.800
+Faculty (Olympus): Model just produces some ones and zeros, that's it, and that gets translated into something else.
+
+872
+01:52:26.390 --> 01:52:34.010
+Faculty (Olympus): So think of it this, model produce some ones and zeros with predictions, and those ones and zeros are taken by GradCamp Tak.
+
+873
+01:52:34.070 --> 01:52:37.070
+Faculty (Olympus): Technology, which is a very well-established technology.
+
+874
+01:52:37.070 --> 01:52:56.579
+Faculty (Olympus): And now it's producing the image. So I just want to differentiate the two things. So just don't confuse that model is producing that. Model is purely doing the predictions, probability, numbers, just spitting out numbers. Now you can basically feed that information into other technologies to give you better, like, a little bit better explainability and all that.
+
+875
+01:52:57.050 --> 01:52:57.870
+Faculty (Olympus): Good.
+
+876
+01:53:00.120 --> 01:53:15.840
+Faculty (Olympus): So these are some of the solutions that were built, like Deep COVIDXR. It was built in at Northwestern University. COVIDNet, these are all the names of the AI solution based on XA machines that were built. University of Waterloo.
+
+877
+01:53:16.490 --> 01:53:31.149
+Faculty (Olympus): PD COVIDNet, it was built in Bangladesh, and there's something, you're seeing here, like, accuracy, 93%, 83%, and all that. So my question to all of you, and I think maybe,
+
+878
+01:53:31.510 --> 01:53:34.779
+Faculty (Olympus): We'll take that as a discussion point here.
+
+879
+01:53:36.350 --> 01:53:39.970
+Faculty (Olympus): When you see these three solutions, Right?
+
+880
+01:53:41.130 --> 01:53:45.009
+Faculty (Olympus): Right? You see 3D solutions. Which one will you go with?
+
+881
+01:53:45.640 --> 01:53:52.409
+Faculty (Olympus): From just, like, what… what will… what comes to your mind? So you see 96.58% accuracy.
+
+882
+01:53:52.620 --> 01:53:55.700
+Faculty (Olympus): 93%, and then 83%.
+
+883
+01:53:56.840 --> 01:54:00.269
+Faculty (Olympus): which one will you go with?
+
+884
+01:54:02.040 --> 01:54:03.849
+Faculty (Olympus): Or is… is it that simple?
+
+885
+01:54:07.430 --> 01:54:08.619
+Faculty (Olympus): Any tarts?
+
+886
+01:54:09.500 --> 01:54:14.859
+Faculty (Olympus): And there's no right or wrong answer, guys. So, you know, I think this is more of a conversation we want to have with everyone.
+
+887
+01:54:17.630 --> 01:54:26.430
+Faculty (Olympus): And don't be shy, even if it's wrong. That's how you learn. So please think, like, what do you think? Which model will you go with in your practice?
+
+888
+01:54:28.710 --> 01:54:30.070
+Dr Ikram Ahmed .: The bangla, this one.
+
+889
+01:54:31.240 --> 01:54:34.829
+Alagu A .: Is it the deep… the deep COVID XR?
+
+890
+01:54:35.160 --> 01:54:36.500
+Alagu A .: Because,
+
+891
+01:54:37.490 --> 01:54:44.239
+Alagu A .: If it's ones and zeros, it can probably be, you know, accurate in detecting even the negative ones, isn't it?
+
+892
+01:54:44.640 --> 01:54:46.660
+Alagu A .: The sensitivity specificity?
+
+893
+01:54:47.160 --> 01:54:48.410
+Alagu A .: I may be wrong.
+
+894
+01:54:49.020 --> 01:54:52.180
+Faculty (Olympus): You are touching on very important points.
+
+895
+01:54:52.370 --> 01:54:55.209
+Faculty (Olympus): So… So, at this point.
+
+896
+01:54:56.540 --> 01:55:05.389
+Faculty (Olympus): Good. And I think, Bangladesh one is very obvious, because it has highest accuracy, right? And then 83%
+
+897
+01:55:06.210 --> 01:55:08.669
+Faculty (Olympus): We're kind of assuming, right, Nate?
+
+898
+01:55:09.730 --> 01:55:10.470
+Faculty (Olympus): Means.
+
+899
+01:55:11.040 --> 01:55:16.680
+Faculty (Olympus): Focus on recall, and specificity, and that's what you're talking about, right?
+
+900
+01:55:17.870 --> 01:55:35.159
+Faculty (Olympus): One takeaway, again, for all of you, you will hear a lot in media, in, like, posts and newspaper, like, articles that this model has achieved this much accuracy, right? 83%, 93%, and all that, right?
+
+901
+01:55:36.160 --> 01:55:37.459
+Faculty (Olympus): Don't go by that.
+
+902
+01:55:38.060 --> 01:55:39.300
+Faculty (Olympus): my suggestion.
+
+903
+01:55:39.640 --> 01:55:41.190
+Faculty (Olympus): There's more to it.
+
+904
+01:55:42.490 --> 01:55:43.270
+Faculty (Olympus): Right.
+
+905
+01:55:44.750 --> 01:55:54.939
+Faculty (Olympus): And when I say that, Your… it depends, like, you know, your model may be 96% or 98% accurate.
+
+906
+01:55:56.510 --> 01:55:57.920
+Faculty (Olympus): But on what?
+
+907
+01:55:58.770 --> 01:56:02.879
+Faculty (Olympus): You got to a question, like, what were the data used?
+
+908
+01:56:03.220 --> 01:56:05.069
+Faculty (Olympus): Was it diverse data?
+
+909
+01:56:05.460 --> 01:56:09.980
+Faculty (Olympus): Now, this 96.58% accuracy may work well.
+
+910
+01:56:10.390 --> 01:56:22.089
+Faculty (Olympus): within a specific hospital in Bangladesh, or within Bangladesh, because they may have only used data from that country, or region, or area.
+
+911
+01:56:24.380 --> 01:56:27.440
+Faculty (Olympus): So the point I'm trying to make here, there is more to it.
+
+912
+01:56:28.230 --> 01:56:30.450
+Faculty (Olympus): So data is one aspect of it.
+
+913
+01:56:30.980 --> 01:56:33.710
+Faculty (Olympus): What is important in healthcare?
+
+914
+01:56:33.980 --> 01:56:41.129
+Faculty (Olympus): is an… I'm sorry if I don't say your name. Elagu? Elagu? That's how you say your name?
+
+915
+01:56:41.470 --> 01:56:42.430
+Alagu A .: Alagu, Alagu.
+
+916
+01:56:42.430 --> 01:56:51.180
+Faculty (Olympus): I'll go, I'll go. You raise a very good point, and we'll talk more about that. So there is something called as precision recall specificity.
+
+917
+01:56:51.510 --> 01:56:53.190
+Faculty (Olympus): performance metrics.
+
+918
+01:56:53.310 --> 01:56:54.760
+Faculty (Olympus): for AI mortals.
+
+919
+01:56:57.330 --> 01:56:59.729
+Faculty (Olympus): And we focus more on that.
+
+920
+01:57:00.040 --> 01:57:04.030
+Faculty (Olympus): Then… Accuracy. Accuracy just tells you
+
+921
+01:57:04.430 --> 01:57:06.740
+Faculty (Olympus): How well your model is predicting.
+
+922
+01:57:07.530 --> 01:57:09.780
+Faculty (Olympus): Whether negative or positive.
+
+923
+01:57:10.350 --> 01:57:14.879
+Faculty (Olympus): Now, there is also false positives and false negatives, we have not talked about that yet.
+
+924
+01:57:16.300 --> 01:57:27.109
+Faculty (Olympus): So, I would be more confident if with these 83%, not only they are telling me, or 96%, not only they are telling me, showing me
+
+925
+01:57:27.370 --> 01:57:32.349
+Faculty (Olympus): That this model is 96.58% accurate.
+
+926
+01:57:33.160 --> 01:57:35.449
+Faculty (Olympus): Here's the data that was used.
+
+927
+01:57:36.280 --> 01:57:39.169
+Faculty (Olympus): Here's a study that we conducted.
+
+928
+01:57:40.300 --> 01:57:42.749
+Faculty (Olympus): Here was the patient population.
+
+929
+01:57:43.930 --> 01:57:48.160
+Faculty (Olympus): And this population was… consisted of…
+
+930
+01:57:49.750 --> 01:57:53.659
+Faculty (Olympus): This demographic, this variation, this diverse, and all that.
+
+931
+01:57:54.150 --> 01:57:55.180
+Faculty (Olympus): and…
+
+932
+01:57:56.350 --> 01:58:03.440
+Faculty (Olympus): Here's the false positive results, here's the false negative results. This is how well model is kind of differentiating
+
+933
+01:58:03.960 --> 01:58:06.339
+Faculty (Olympus): Between the good and bad results.
+
+934
+01:58:07.470 --> 01:58:08.909
+Faculty (Olympus): So there's more to it.
+
+935
+01:58:09.010 --> 01:58:12.870
+Faculty (Olympus): So keep that in mind, just keep these points in mind, and we'll come back to it.
+
+936
+01:58:13.020 --> 01:58:14.520
+Faculty (Olympus): pretty frequently.
+
+937
+01:58:15.950 --> 01:58:20.879
+Faculty (Olympus): And the reason I'm throwing these things out, and thank you, Elegi, for mentioning that.
+
+938
+01:58:21.880 --> 01:58:34.890
+Faculty (Olympus): When you look at… when you… somebody… no, you're welcome, thank you, thank you for mentioning it, and please keep this in mind that, you know, when somebody comes to you in healthcare setup, just talking about accuracy.
+
+939
+01:58:36.600 --> 01:58:45.830
+Faculty (Olympus): Don't go with that, because there's more to it. There's more to evaluation than just accuracy numbers, because that can be very misleading.
+
+940
+01:58:46.090 --> 01:58:47.459
+Faculty (Olympus): really misleading.
+
+941
+01:58:48.210 --> 01:58:58.819
+Faculty (Olympus): So usually what ends up happening, if you go with accuracy, 83, let's take 97%, for the most part, when you take this model.
+
+942
+01:58:59.260 --> 01:59:00.790
+Faculty (Olympus): and deploy it.
+
+943
+01:59:00.980 --> 01:59:06.659
+Faculty (Olympus): In real life, This accuracy might go down to 60-70%.
+
+944
+01:59:07.490 --> 01:59:09.049
+Faculty (Olympus): Now, will you trust it?
+
+945
+01:59:09.740 --> 01:59:10.710
+Faculty (Olympus): That's the question.
+
+946
+01:59:11.770 --> 01:59:15.870
+Faculty (Olympus): So keep these points in mind, and we'll keep on coming back to these.
+
+947
+01:59:16.080 --> 01:59:27.150
+Faculty (Olympus): As I said, you know, building these AI models is not at all a rocket science, and this is one hype I want to take out from all of you, just…
+
+948
+01:59:27.370 --> 01:59:33.420
+Faculty (Olympus): Don't be intimidated by these models, these… this is all mathematics behind it, nothing else.
+
+949
+01:59:33.750 --> 01:59:41.399
+Faculty (Olympus): All mathematics. And one of the hype is this. People will sell you accuracy, so please don't trust that.
+
+950
+01:59:41.930 --> 01:59:48.480
+Faculty (Olympus): there's more to it. So, in clinical studies, and when we do these models in healthcare.
+
+951
+01:59:49.320 --> 01:59:56.030
+Faculty (Olympus): You will also… well, you probably have seen this in your videos too, and this is very true. Just don't… don't…
+
+952
+01:59:56.440 --> 02:00:01.359
+Faculty (Olympus): Trust on the articles and papers. Go deeper.
+
+953
+02:00:01.640 --> 02:00:08.080
+Faculty (Olympus): Data that was used, method that was used, diversity of data that was used.
+
+954
+02:00:08.750 --> 02:00:13.099
+Faculty (Olympus): go with that, because your models are purely…
+
+955
+02:00:13.340 --> 02:00:19.189
+Faculty (Olympus): they are basing their decision based on what they have seen. If they have not seen something.
+
+956
+02:00:19.610 --> 02:00:20.950
+Faculty (Olympus): They will error out.
+
+957
+02:00:22.020 --> 02:00:22.750
+Faculty (Olympus): Right?
+
+958
+02:00:22.850 --> 02:00:28.850
+Faculty (Olympus): So… That's the thing. So this is a typical training, means you train your model, and then we validate.
+
+959
+02:00:29.170 --> 02:00:41.810
+Faculty (Olympus): And when we do validation, actually, in healthcare setup, it's usually also validation around compliance, validation around regulations, validations around whatever are the practices that you need to account for.
+
+960
+02:00:42.320 --> 02:00:58.980
+Faculty (Olympus): So basically, you're training your model, you're validating against the real-world scenarios, real-world data, and then you deploy it. Inference is nothing but your model has been deployed, and now it's producing output. So it has become part of your process. That's where inference starts to happen.
+
+961
+02:01:00.000 --> 02:01:09.140
+Faculty (Olympus): So, these are some of the examples of, like, another AI models, AIS solutions developed. So China developed this InfraVision.
+
+962
+02:01:09.370 --> 02:01:15.139
+Faculty (Olympus): early 2020. And again, for the same reason, they just wanted to speed up
+
+963
+02:01:15.330 --> 02:01:20.340
+Faculty (Olympus): Testing so that, patient can be treated faster, right?
+
+964
+02:01:20.830 --> 02:01:31.980
+Faculty (Olympus): cure.ai, people in India may have heard about this one. You can read more on this one, here. There's a link, below this presentation, I mean, slide.
+
+965
+02:01:32.160 --> 02:01:39.649
+Faculty (Olympus): It talks about other examples, cure.ai, for same, purpose.
+
+966
+02:01:41.420 --> 02:01:47.350
+Faculty (Olympus): So, it was used in India again? I think you could… so basically, oh.
+
+967
+02:01:47.950 --> 02:01:50.850
+Faculty (Olympus): Remind me, I will send you an article.
+
+968
+02:01:51.610 --> 02:01:59.410
+Faculty (Olympus): Though, these solutions like, COVID… solutions for COVID were built
+
+969
+02:02:01.080 --> 02:02:02.900
+Faculty (Olympus): They could not be scaled up.
+
+970
+02:02:03.240 --> 02:02:11.989
+Faculty (Olympus): They were not… though they served the purpose at that point, situation, there was a dire situation, some solution was needed.
+
+971
+02:02:12.300 --> 02:02:14.300
+Faculty (Olympus): But they could not be scaled up.
+
+972
+02:02:14.760 --> 02:02:21.560
+Faculty (Olympus): they… most of the COVID solution that you see today which were built…
+
+973
+02:02:22.580 --> 02:02:36.079
+Faculty (Olympus): Though they are being used here and there, the scalability is not there, and I'll… actually, I'll share an article, actually. There were almost 232 solutions built, AI solutions built, on COVID, for COVID detection.
+
+974
+02:02:37.600 --> 02:02:41.960
+Faculty (Olympus): None of them got to the level Where…
+
+975
+02:02:42.760 --> 02:02:49.909
+Faculty (Olympus): It could say, yeah, this is a global standard now, and now we can use it globally, consistently.
+
+976
+02:02:50.070 --> 02:02:51.769
+Faculty (Olympus): with high scalability.
+
+977
+02:02:52.410 --> 02:02:56.070
+Faculty (Olympus): Right? And there was a reason for that, and we'll talk more on that.
+
+978
+02:02:57.160 --> 02:03:01.509
+Faculty (Olympus): But think of when we build these AI solutions in healthcare.
+
+979
+02:03:03.310 --> 02:03:08.610
+Faculty (Olympus): If one takeaway from today's class, one more takeaway you can take, is this.
+
+980
+02:03:11.340 --> 02:03:13.540
+Faculty (Olympus): These AI solutions
+
+981
+02:03:14.020 --> 02:03:23.409
+Faculty (Olympus): Right? These AI solutions can fall into, like, software as a medical device category too, right? I mean, because…
+
+982
+02:03:23.740 --> 02:03:33.480
+Faculty (Olympus): anything that you're using in a medical setup can be used as a device. So, AI solutions can be used as software as a medical device, right?
+
+983
+02:03:34.570 --> 02:03:37.100
+Faculty (Olympus): So when you… when you… and…
+
+984
+02:03:37.300 --> 02:03:48.210
+Faculty (Olympus): Another parallel, when some new drugs are developed, right, means you have a very well-controlled studies, clinical studies, conducted.
+
+985
+02:03:48.430 --> 02:04:06.599
+Faculty (Olympus): randomized controls, like placebo, and so you go take it all the way from drug discovery to clinical trials to ensure the efficacy and ensuring there are no adverse effects. If there are, they're very well documented. So it's a very well-structured process, right, that we follow?
+
+986
+02:04:09.580 --> 02:04:13.449
+Faculty (Olympus): This is exactly the same process you want to follow for AI solutions.
+
+987
+02:04:13.570 --> 02:04:14.810
+Faculty (Olympus): in healthcare.
+
+988
+02:04:15.720 --> 02:04:20.050
+Faculty (Olympus): If you want to use that as a software, as a medical device.
+
+989
+02:04:20.240 --> 02:04:37.449
+Faculty (Olympus): If you are not planning on immersing it into your clinical practices, it's not going to do anything more than just your assistant, like, do you want to use it just to feel confident, that's a different story, you can do it. But if you want to truly make it a part of the process, think of it as if you're designing a study.
+
+990
+02:04:39.680 --> 02:04:42.339
+Faculty (Olympus): That will streamline a lot of things for you.
+
+991
+02:04:43.100 --> 02:04:49.429
+Faculty (Olympus): How do you… Define your data. How do you define your end goal?
+
+992
+02:04:50.230 --> 02:04:57.530
+Faculty (Olympus): everything will start to link. The same philosophy is followed for AI solutions in healthcare setup.
+
+993
+02:04:59.150 --> 02:05:04.230
+Faculty (Olympus): Any questions, before… Any question?
+
+994
+02:05:08.910 --> 02:05:13.469
+Faculty (Olympus): Thank you, thank you, Dr. Malik, for mentioning that. Q.ai, yeah?
+
+995
+02:05:18.000 --> 02:05:24.829
+Faculty (Olympus): Any questions anybody has? I know it must be pretty late for you guys. I think for me, it's, 11.30 a.m. morning time.
+
+996
+02:05:25.150 --> 02:05:27.270
+Faculty (Olympus): We're almost towards the end.
+
+997
+02:05:28.050 --> 02:05:33.070
+Faculty (Olympus): So… so there are a lot of AI solutions you hear out there.
+
+998
+02:05:34.460 --> 02:05:44.700
+Faculty (Olympus): And as part of your practice, as I said, you know, you may not be going very much detail into the technology part of it, or maybe building solutions yourself.
+
+999
+02:05:45.200 --> 02:05:50.860
+Faculty (Olympus): But… There's certain framework, there's certain evaluation criteria.
+
+1000
+02:05:51.010 --> 02:05:54.069
+Faculty (Olympus): That you all can bring into your practices.
+
+1001
+02:05:54.270 --> 02:05:56.839
+Faculty (Olympus): And it's all about just asking a few questions.
+
+1002
+02:05:58.200 --> 02:05:58.880
+Faculty (Olympus): Yeah.
+
+1003
+02:05:59.560 --> 02:06:06.430
+Faculty (Olympus): And as we go along, I will try to bring points here and there from the PACT framework I mentioned to you.
+
+1004
+02:06:06.560 --> 02:06:10.650
+Faculty (Olympus): Just to streamline this, this development and immersion
+
+1005
+02:06:10.850 --> 02:06:14.460
+Faculty (Olympus): Of these solutions into your practices, like, how you can do that.
+
+1006
+02:06:16.830 --> 02:06:29.930
+Faculty (Olympus): Anybody else want to say something? I know, it's pretty late for all of you, and I commend you for being here this late on Sunday. Must be a workday for you guys. I still have a whole day for myself.
+
+1007
+02:06:35.850 --> 02:06:37.950
+Faculty (Olympus): Ikram, you want to say something? Please go ahead.
+
+1008
+02:06:38.710 --> 02:06:43.119
+Dr Ikram Ahmed .: But I actually, I don't know where to start from.
+
+1009
+02:06:43.280 --> 02:06:52.030
+Dr Ikram Ahmed .: Because, as I mentioned earlier about the concept that I'm thinking about, it's the fetal monitoring tool, the CTG, if you're aware of it.
+
+1010
+02:06:52.230 --> 02:06:58.049
+Dr Ikram Ahmed .: It's a very critical tool, for the fetal well-being, and even
+
+1011
+02:06:58.180 --> 02:07:05.240
+Dr Ikram Ahmed .: During maternal assessment, during labor, and even… Topartum care.
+
+1012
+02:07:05.530 --> 02:07:16.400
+Dr Ikram Ahmed .: So, we've been using this CTG for, like, for… since, I don't know, 50s, and I've been searching about if there's any,
+
+1013
+02:07:16.510 --> 02:07:19.120
+Dr Ikram Ahmed .: Like, anyway, studies, or…
+
+1014
+02:07:19.220 --> 02:07:25.989
+Dr Ikram Ahmed .: any news of AI, and I found a few studies in UK, and it wasn't actually deployed yet.
+
+1015
+02:07:26.980 --> 02:07:35.539
+Dr Ikram Ahmed .: It's very, kind of complicated for me to understand how we can change that, or how can we use
+
+1016
+02:07:35.670 --> 02:07:46.230
+Dr Ikram Ahmed .: the AI in such, like, real-time interpretation of fetal monitoring during Labor, and even before that.
+
+1017
+02:07:46.640 --> 02:07:56.830
+Dr Ikram Ahmed .: So, what would you recommend or advise to where to start reading about these things? I'm actually reading, but, like, I couldn't understand or…
+
+1018
+02:07:57.480 --> 02:08:04.169
+Dr Ikram Ahmed .: like, comprehend these concepts that have been used before, and… actually, there's no…
+
+1019
+02:08:04.930 --> 02:08:13.600
+Dr Ikram Ahmed .: like, conclusion is done, ever. So, what do you think about such model or, like, innovation?
+
+1020
+02:08:14.310 --> 02:08:20.899
+Faculty (Olympus): Yeah, yeah. So one thing, if you can do, Vikram, I think that's where we'll start. Just think about
+
+1021
+02:08:22.800 --> 02:08:27.490
+Faculty (Olympus): AI, no AI. Let's not talk about AI, right? It's just a solution you're trying to build, right?
+
+1022
+02:08:27.490 --> 02:08:30.599
+Dr Ikram Ahmed .: Yeah. So there's a problem. So, if, if, if in…
+
+1023
+02:08:30.600 --> 02:08:32.839
+Faculty (Olympus): Maybe not be today. I think you can…
+
+1024
+02:08:32.840 --> 02:08:33.310
+Dr Ikram Ahmed .: Yeah.
+
+1025
+02:08:33.310 --> 02:08:36.049
+Faculty (Olympus): Just define the problem.
+
+1026
+02:08:36.360 --> 02:08:36.980
+Faculty (Olympus): And…
+
+1027
+02:08:37.550 --> 02:08:38.450
+Faculty (Olympus): At the endpoint.
+
+1028
+02:08:38.450 --> 02:08:43.119
+Dr Ikram Ahmed .: The problem is, I think, is the issue with interpretation of these things.
+
+1029
+02:08:43.260 --> 02:09:02.309
+Dr Ikram Ahmed .: Because it's subjective, there is guidelines on how to interpret the CTG. There is global guidelines, like there's the RCOG Royal College in UK and the NICE guidelines, so many guidelines, but it all depends on the doctor obstetrician and the consultant's assessment, and it's always…
+
+1030
+02:09:02.310 --> 02:09:06.919
+Dr Ikram Ahmed .: It ends up with… so many interventions.
+
+1031
+02:09:07.100 --> 02:09:16.750
+Dr Ikram Ahmed .: And then there's the… the legal issue with why would you do this, and it could have been done, and the… the pal outcomes depends on…
+
+1032
+02:09:16.870 --> 02:09:23.800
+Dr Ikram Ahmed .: how these, interpretations done. So this is the problem, because it's all subjective still.
+
+1033
+02:09:24.370 --> 02:09:27.430
+Dr Ikram Ahmed .: With regards of interpretation.
+
+1034
+02:09:28.740 --> 02:09:34.300
+Faculty (Olympus): So, let's do this. So, there are a couple of things I'm hearing now. Obviously, like you said, fetal monitoring during…
+
+1035
+02:09:34.610 --> 02:09:35.860
+Faculty (Olympus): the process.
+
+1036
+02:09:35.860 --> 02:09:36.300
+Dr Ikram Ahmed .: Yeah.
+
+1037
+02:09:36.300 --> 02:09:45.189
+Faculty (Olympus): That's one aspect of it, and I think based on what you're seeing, you may be deciding what needs to happen, like, how you want to intervene and.
+
+1038
+02:09:45.330 --> 02:09:45.780
+Dr Ikram Ahmed .: reaction.
+
+1039
+02:09:45.780 --> 02:09:46.610
+Faculty (Olympus): Right?
+
+1040
+02:09:47.680 --> 02:09:57.180
+Faculty (Olympus): So, there are two parts to it. And again, you know, very high level, and we can talk more on it. So, if you can do one thing, because, see, the thing is.
+
+1041
+02:09:59.110 --> 02:10:00.750
+Faculty (Olympus): these AI solutions.
+
+1042
+02:10:01.060 --> 02:10:19.490
+Faculty (Olympus): should solve some problem, right? And now, a quick problem that you mentioned, Ikram, is around different interpretation, like the guidelines which are being followed, right? If the goal is to streamline these guidelines, there's some consistency around it, and you want to use AI for it.
+
+1043
+02:10:20.050 --> 02:10:21.700
+Dr Ikram Ahmed .: So let's target that.
+
+1044
+02:10:21.780 --> 02:10:23.500
+Faculty (Olympus): Right? So…
+
+1045
+02:10:23.970 --> 02:10:35.670
+Faculty (Olympus): define the problem, like, what it is exactly, and then I'll give you some ideas. Like, you know, when we have this endpoint in mind, now we can reverse engineer, and now we can see what kind of data is needed to train the model.
+
+1046
+02:10:36.610 --> 02:10:46.249
+Faculty (Olympus): and how to start getting that results output. So, do me just… maybe in the next class, when we come, and this is a good discussion point for all of you guys, right?
+
+1047
+02:10:46.580 --> 02:10:52.979
+Faculty (Olympus): And we'll… I'll make sure that we have some point, some time allocated Define the problem.
+
+1048
+02:10:53.310 --> 02:10:56.180
+Faculty (Olympus): What's your endpoint goal? Like, what are you trying to achieve?
+
+1049
+02:10:56.360 --> 02:11:00.740
+Faculty (Olympus): And then we can start to break it down in terms of the data you want to start with.
+
+1050
+02:11:01.080 --> 02:11:01.750
+Faculty (Olympus): And…
+
+1051
+02:11:01.750 --> 02:11:02.070
+Dr Ikram Ahmed .: Hmm.
+
+1052
+02:11:02.070 --> 02:11:03.230
+Faculty (Olympus): How to train it.
+
+1053
+02:11:03.550 --> 02:11:06.130
+Faculty (Olympus): come up with an endpoint. So, we'll do that.
+
+1054
+02:11:06.130 --> 02:11:06.780
+Dr Ikram Ahmed .: Okay.
+
+1055
+02:11:07.930 --> 02:11:08.920
+Dr Ikram Ahmed .: Okay, perfect.
+
+1056
+02:11:08.920 --> 02:11:17.850
+Faculty (Olympus): But good, good example, good example, because I also see some robotics in it, like, like, robotic surgeries are becoming popular lately.
+
+1057
+02:11:18.140 --> 02:11:21.590
+Faculty (Olympus): So I… part of that, too, AI is used there, too.
+
+1058
+02:11:21.880 --> 02:11:26.629
+Faculty (Olympus): And then some static model development, too, so… We can look into that.
+
+1059
+02:11:26.630 --> 02:11:37.720
+Dr Ikram Ahmed .: And also the prediction, also. I like the concept from the… our orientation classes about the postpartum risk, postpartum, hemorrhage.
+
+1060
+02:11:37.990 --> 02:11:44.899
+Dr Ikram Ahmed .: the prediction tools that are used, that have been used, it's very interesting. So many things, yeah, so many options to be used, so…
+
+1061
+02:11:45.190 --> 02:11:48.650
+Faculty (Olympus): Absolutely, absolutely, and I think,
+
+1062
+02:11:48.950 --> 02:11:51.509
+Faculty (Olympus): The key is, if you have the data.
+
+1063
+02:11:52.680 --> 02:11:53.060
+Dr Ikram Ahmed .: Hmm.
+
+1064
+02:11:53.060 --> 02:11:54.560
+Faculty (Olympus): You can create solutions.
+
+1065
+02:11:55.430 --> 02:12:00.140
+Dr Ikram Ahmed .: True. No problem at all. So if you have the data on patients.
+
+1066
+02:12:00.140 --> 02:12:09.280
+Faculty (Olympus): And they're okay. Obviously, you're not going to use their names and all that. We never use that in model development. But there are ways to do it, absolutely, yep.
+
+1067
+02:12:10.180 --> 02:12:10.850
+Dr Ikram Ahmed .: Okay.
+
+1068
+02:12:10.980 --> 02:12:11.990
+Dr Ikram Ahmed .: Thank you so much.
+
+1069
+02:12:12.310 --> 02:12:18.080
+Faculty (Olympus): You're welcome. Anybody else? Before we end this class today, I think I just don't want to go and take a lot of your time and…
+
+1070
+02:12:19.690 --> 02:12:23.680
+Dr Roopesh Narayanachary .: I have posted the… Couple of questions.
+
+1071
+02:12:23.880 --> 02:12:25.709
+Faculty (Olympus): Sure, let's see…
+
+1072
+02:12:28.190 --> 02:12:42.060
+Faculty (Olympus): Okay, what do you mean by scalability? Good point. Also, we'll talk about that. Also, how does one critically analyze and conclude how data and methods are generally acceptable before accepting that model?
+
+1073
+02:12:42.120 --> 02:12:50.860
+Faculty (Olympus): A lot of great questions. So, a couple of ways we do that, Rupesh, and we will talk about them as we go along. Let's talk about scalability.
+
+1074
+02:12:51.480 --> 02:12:59.380
+Faculty (Olympus): So, when we… when you… there are two… there are two parts to scalability. The one is the technical part of it, like, technology part of it.
+
+1075
+02:12:59.510 --> 02:13:15.380
+Faculty (Olympus): And the second is, like, scalability in terms of, like, adoption of that solution across the practice. So it's not like you, you build it for yourself, or, like, a very small practice, and it's good. It's solving the purpose, right?
+
+1076
+02:13:15.760 --> 02:13:18.880
+Faculty (Olympus): And when we say technology, and so…
+
+1077
+02:13:19.280 --> 02:13:23.790
+Faculty (Olympus): think of it this way. All of these models, they need to sit somewhere.
+
+1078
+02:13:24.110 --> 02:13:33.110
+Faculty (Olympus): Right? When we deploy these into production, they need to sit somewhere, They consume resources, They consume data.
+
+1079
+02:13:34.080 --> 02:13:35.170
+Faculty (Olympus): compute heavy.
+
+1080
+02:13:35.370 --> 02:13:36.530
+Faculty (Olympus): For the most part.
+
+1081
+02:13:36.780 --> 02:13:39.920
+Faculty (Olympus): So, if they will need budget.
+
+1082
+02:13:40.220 --> 02:13:53.319
+Faculty (Olympus): to scale those up, like, you know, if you… I mean, it's okay if you're processing, let's say, maybe 100, 200 records a day, it's okay, I think you'll need computing power, but if you need to increase that.
+
+1083
+02:13:53.580 --> 02:13:57.419
+Faculty (Olympus): Like, capacity for them to process more?
+
+1084
+02:13:58.050 --> 02:14:01.740
+Faculty (Olympus): Then you need… more scaled up.
+
+1085
+02:14:03.090 --> 02:14:05.230
+Faculty (Olympus): Infrastructure, that's one thing.
+
+1086
+02:14:05.770 --> 02:14:19.399
+Faculty (Olympus): And then process-wise, I think, you know, if you, let's say, make it a part of your entire network, like, you have multiple hospitals, and you have a network of hospitals, you want this, this technology or sort of solution to be adopted.
+
+1087
+02:14:20.000 --> 02:14:23.350
+Faculty (Olympus): That's another example of scalability that we talked about.
+
+1088
+02:14:23.350 --> 02:14:41.760
+Dr Roopesh Narayanachary .: Okay, so you mean to say that when any model is upfront, designed, it should have an element, that it would be scalable to a larger context, in the initial phase itself. I mean, something like that?
+
+1089
+02:14:43.310 --> 02:14:48.310
+Faculty (Olympus): Even if it's not in the initial phase, like, can you iteratively
+
+1090
+02:14:48.610 --> 02:15:01.639
+Faculty (Olympus): make it available, yes. So we do talk about that. You know, when we build these AI solutions, one of the things you will hear a lot means the target audience. If it's a very small population, you're good enough.
+
+1091
+02:15:01.800 --> 02:15:08.220
+Faculty (Olympus): But then, if the goal is to roll it out to a broader audience, like, broader consumers.
+
+1092
+02:15:08.890 --> 02:15:17.599
+Faculty (Olympus): Like, how do you ensure about that? So, maybe you may not be able to, like, roll out right away to the broader audience and broader consumers, but iteratively you can.
+
+1093
+02:15:18.070 --> 02:15:22.499
+Faculty (Olympus): Little by little, as you learn more from the smaller pilot, you can…
+
+1094
+02:15:22.660 --> 02:15:40.360
+Dr Roopesh Narayanachary .: take it forward. Yeah, because, yeah, most often, like, when… in the pilot, always our… the case controls, or, like, whatever the study population would be a little small, so all the, the… whatever the algorithm used, or, like.
+
+1095
+02:15:40.630 --> 02:15:56.510
+Dr Roopesh Narayanachary .: the model design, or whatever it is, would be for that particular number, but eventually, when I want to expand it to a larger population. So, are there mathematical, kind of,
+
+1096
+02:15:56.810 --> 02:16:12.100
+Dr Roopesh Narayanachary .: formulae or, whatever, numbers, or, like, ways by which, we incorporate that in the initial part of the model design itself, is what I think.
+
+1097
+02:16:12.340 --> 02:16:14.139
+Dr Roopesh Narayanachary .: Yes, yes, we do.
+
+1098
+02:16:14.140 --> 02:16:24.729
+Faculty (Olympus): Yes, we do. Yes, we do. And we'll talk about them, I think, and we touched upon, very subtly, and to Elgu's point, as she mentioned about, you know, sensitivity, metrics.
+
+1099
+02:16:24.900 --> 02:16:35.279
+Faculty (Olympus): performance metrics, so there's accuracy is one of them, there's something called recall and precision. So these are some of the… some of the benchmarks we use to measure performance of these models.
+
+1100
+02:16:35.660 --> 02:16:40.499
+Faculty (Olympus): And… and… and a lot of that… Yeah, sorry, please, go ahead, yeah.
+
+1101
+02:16:40.950 --> 02:16:50.579
+Dr Roopesh Narayanachary .: The second question also I asked about, like, how genuinely, like, you said that, like, for example, you gave that example of the three, the UK one, the…
+
+1102
+02:16:50.900 --> 02:16:59.759
+Dr Roopesh Narayanachary .: one more, and Bangladesh one, you give them three different numbers. So, data-wise, like, how to exactly, you know, the…
+
+1103
+02:17:00.240 --> 02:17:05.879
+Dr Roopesh Narayanachary .: Analyze critically, and conclude, like, how the data and methods are generally acceptable.
+
+1104
+02:17:05.990 --> 02:17:11.319
+Dr Roopesh Narayanachary .: Like, before, concluding that, okay, this model's accuracy is really
+
+1105
+02:17:11.469 --> 02:17:17.349
+Dr Roopesh Narayanachary .: good or not. So before that, like, what is the process? I mean, I'm sure, like, you would have it in your further classes as well.
+
+1106
+02:17:18.219 --> 02:17:19.469
+Faculty (Olympus): So…
+
+1107
+02:17:21.169 --> 02:17:40.459
+Faculty (Olympus): So there is no right or wrong way to address this, Pesh. I think one of the things we always do. So when we start building these models, the data is kind of an ingredient, right? So it always starts with that data. So the… and I'll give you a very high-level view, and we'll dive deeper into this part later as well.
+
+1108
+02:17:40.459 --> 02:17:41.969
+Dr Roopesh Narayanachary .: Okay, very quick.
+
+1109
+02:17:41.969 --> 02:17:49.559
+Faculty (Olympus): So there are a couple of things, but I will point out quickly. The one is that you have to know the data, where it's coming from, the source of data.
+
+1110
+02:17:50.459 --> 02:18:06.039
+Faculty (Olympus): of it. And then you need to… so there is something called as data understanding. So before even we build these models, we do some feature engineering, we do some pre-processing, and we do… run some statistical analysis on the data.
+
+1111
+02:18:06.039 --> 02:18:15.909
+Faculty (Olympus): just to understand the distribution of data, right? Where the mean is, where the standard deviation is, and obviously, if it's representing correctly.
+
+1112
+02:18:16.409 --> 02:18:21.329
+Faculty (Olympus): data is diverse and all that. So there's a lot of analysis that is done up front.
+
+1113
+02:18:21.719 --> 02:18:22.429
+Faculty (Olympus): Right?
+
+1114
+02:18:22.990 --> 02:18:24.610
+Faculty (Olympus): Okay. So… so that's one…
+
+1115
+02:18:24.610 --> 02:18:43.659
+Dr Roopesh Narayanachary .: Will that also be a part of our learning? Because that is… that seems to be, to me, very, very, very essential, as a, as a learning, aspect. So will that also be included, in our, curriculum, is what I meant. I mean, like, you know?
+
+1116
+02:18:44.270 --> 02:18:47.099
+Faculty (Olympus): It… so, unfortunately, not a lot.
+
+1117
+02:18:47.480 --> 02:18:52.190
+Faculty (Olympus): Because that is a complete body of knowledge in itself.
+
+1118
+02:18:53.369 --> 02:19:01.709
+Faculty (Olympus): But what I will do, and it's actually an excellent point, I will show you, I will show you, like, how this is done subtly here and there in examples.
+
+1119
+02:19:01.709 --> 02:19:14.819
+Faculty (Olympus): I will try to bring some real use cases, the solution that I have built, like how I did the data preprocessing and all that, just to give you an idea. Unfortunately, we'll not go very deep into it, because just by design, this program is done.
+
+1120
+02:19:15.289 --> 02:19:16.979
+Dr Roopesh Narayanachary .: Great, great, thank you.
+
+1121
+02:19:17.110 --> 02:19:31.740
+Faculty (Olympus): Yeah. And another… just one last point, and this is actually… would be a good talking point for later, too. So, all of these models which are built, especially in healthcare setup, right? Some publishing happens. If… let's say… because, you know.
+
+1122
+02:19:32.240 --> 02:19:40.550
+Faculty (Olympus): Most likely, somebody must have filed for approval or something somewhere, so they have to publish some data. They have to publish some articles.
+
+1123
+02:19:40.850 --> 02:19:51.660
+Faculty (Olympus): On their study, so just treat if… so usually, what I do when I look at these models, I look for their publications. Like, what did they publish along with that data, along with their product?
+
+1124
+02:19:52.180 --> 02:20:05.100
+Faculty (Olympus): And usually, it should talk about the data, it should talk about the metrics, it should talk about, like, what truly it's representing, end-to-end. That's also the good source to look into.
+
+1125
+02:20:06.020 --> 02:20:07.189
+Dr Roopesh Narayanachary .: Okay, thank you.
+
+1126
+02:20:08.430 --> 02:20:21.600
+Faculty (Olympus): Great, guys, I know we… I think our class usually go over the first one because of introductions, but thank you so much, you know, it was so great to know all of you. This is a very diverse cohort.
+
+1127
+02:20:21.870 --> 02:20:36.840
+Faculty (Olympus): We will learn from each other a lot, so please, throw out your eyes, and my role will be to make it as simple as possible for all of you, and if you want to dive deeper into tech, more than happy to share along the way as we go, yeah.
+
+1128
+02:20:37.820 --> 02:20:41.990
+Faculty (Olympus): I mean, the programming part of it, too, so I can show that as well.
+
+1129
+02:20:43.880 --> 02:20:52.579
+Faculty (Olympus): Alright guys, enjoy… sorry, yeah, thank you, Ikram, and enjoy your evening, good night to many of you, and…
+
+1130
+02:20:52.810 --> 02:20:57.010
+Faculty (Olympus): We'll talk again next week, so thank you for the opportunity today.
+
+1131
+02:20:58.130 --> 02:20:59.519
+Dr Roopesh Narayanachary .: Thank you. Good night.
+
+1132
+02:20:59.520 --> 02:21:01.839
+Faculty (Olympus): Thank you. You take care. Bye. Bye.
+
+1133
+02:21:02.350 --> 02:21:03.020
+Faculty (Olympus): Bye.
+

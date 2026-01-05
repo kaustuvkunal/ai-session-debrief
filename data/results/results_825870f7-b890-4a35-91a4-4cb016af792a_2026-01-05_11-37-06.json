@@ -1,0 +1,75 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor actively encouraged learners to ask questions throughout the session and emphasized the importance of interaction.",
+        "evidence": [
+          {
+            "timestamp": "00:41:05",
+            "quote": "The best learning is going to happen through interaction."
+          },
+          {
+            "timestamp": "01:50:20",
+            "quote": "Any questions anybody has?"
+          },
+          {
+            "timestamp": "01:48:55",
+            "quote": "Please feel free to raise your questions."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "No single learner dominated the session with a disproportionate share of questions or caused major detours.",
+        "evidence": []
+      }
+    },
+    {
+      "question": "Were there instances where the mentor struggled to find information or answer questions due to a lack of preparation?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "The mentor consistently answered questions confidently without showing signs of struggle or lack of preparation.",
+        "evidence": []
+      }
+    },
+    {
+      "question": "Did the mentor dedicate enough time for Q&A?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor dedicated significant time to Q&A throughout the session, engaging with learners' questions without rushing.",
+        "evidence": [
+          {
+            "timestamp": "01:36:05",
+            "quote": "Any questions you have here? Guys, I'll take a quick pause."
+          },
+          {
+            "timestamp": "01:48:55",
+            "quote": "Any questions before we go in?"
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was the mentor able to answer learners' questions confidently and comprehensively?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor provided confident and comprehensive answers with clear explanations throughout the Q&A segments.",
+        "evidence": [
+          {
+            "timestamp": "01:40:45",
+            "quote": "Logistic regression may not work very well with images."
+          },
+          {
+            "timestamp": "02:11:50",
+            "quote": "We can start to break it down in terms of the data you want to start with."
+          }
+        ]
+      }
+    }
+  ]
+}

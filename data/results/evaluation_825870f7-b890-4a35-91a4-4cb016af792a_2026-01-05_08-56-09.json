@@ -1,0 +1,121 @@
+{
+  "results": [
+    {
+      "question": "Did mentor encourage learners to ask questions/doubts in the session?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor actively encouraged questions multiple times throughout the session, indicating openness to interaction.",
+        "evidence": [
+          {
+            "timestamp": "00:41:32",
+            "quote": "And, okay, so this is what I'm hoping to…."
+          },
+          {
+            "timestamp": "01:21:26",
+            "quote": "So if you have a question, please raise…."
+          },
+          {
+            "timestamp": "01:41:05",
+            "quote": "Any questions you have here? Guys, I'll take a quick pause."
+          },
+          {
+            "timestamp": "01:41:41",
+            "quote": "Is this sinking in? I know it's very early, so please don't, don't, don't worry, it'll all sort of make sense."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was there any learner who hijacked the session by asking too many questions?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "No single learner asked a disproportionate amount of questions or caused major disruptions to the session flow.",
+        "evidence": [
+          {
+            "timestamp": "02:09:01",
+            "quote": "But I actually, I don't know where to start from."
+          },
+          {
+            "timestamp": "02:10:23",
+            "quote": "And… At the endpoint."
+          },
+          {
+            "timestamp": "02:11:03",
+            "quote": "Hmm."
+          },
+          {
+            "timestamp": "02:12:56",
+            "quote": "And also the prediction, also. I like the concept from the… our orientation classes about the postpartum risk, postpartum, hemorrhage."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Were there instances where the mentor struggled to find information or answer questions due to a lack of preparation?",
+      "response": {
+        "judgement_type": "No",
+        "justification": "The mentor answered all questions confidently, never indicating uncertainty or lack of preparation.",
+        "evidence": [
+          {
+            "timestamp": "01:41:57",
+            "quote": "Good question, Ashita."
+          },
+          {
+            "timestamp": "02:09:45",
+            "quote": "So, the thing is."
+          },
+          {
+            "timestamp": "02:10:59",
+            "quote": "code data, try to find more information for all of you to share with you all."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Did the mentor dedicate enough time for Q&A?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor allocated time for questions throughout the session and responded to them thoroughly.",
+        "evidence": [
+          {
+            "timestamp": "01:41:20",
+            "quote": "Any questions you have here? Guys, I'll take a quick pause."
+          },
+          {
+            "timestamp": "02:09:28",
+            "quote": "Ah, 'cause that pulled away, good example, good example."
+          },
+          {
+            "timestamp": "02:10:08",
+            "quote": "Good, good example, 'cause I also see some robotics in it, like, like, robotic surgeries are becoming popular lately."
+          },
+          {
+            "timestamp": "02:12:50",
+            "quote": "Good guys, before we end this class today I think, I just don't want to go over our time a lot."
+          }
+        ]
+      }
+    },
+    {
+      "question": "Was the mentor able to answer learners' questions confidently and comprehensively?",
+      "response": {
+        "judgement_type": "Yes",
+        "justification": "The mentor responded to questions with clear, structured explanations, demonstrating confidence and comprehension.",
+        "evidence": [
+          {
+            "timestamp": "01:41:14",
+            "quote": "Hell, yeah, I have one doubt."
+          },
+          {
+            "timestamp": "02:10:44",
+            "quote": "time to join my PG now, so, I'm thinking this is one of, like, I was, actually planning to join any ai courses."
+          },
+          {
+            "timestamp": "02:10:50",
+            "quote": "'cause I can probably integrate with my PG training and come up with more innovations, yeah."
+          }
+        ]
+      }
+    }
+  ]
+}
