@@ -1,4 +1,3 @@
-# File: src/prompter.py
 from typing import List, Dict
 
 SYSTEM_MESSAGE= """You are an expert teaching observer.
