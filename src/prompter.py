@@ -57,9 +57,12 @@ QUESTIONS: List[Dict[str, str]] = [
         "question": "Did mentor encourage learners to ask questions/doubts in the session?",
         "instructions": (
             "Look for mentor statements actively encouraging questions (e.g., 'Any doubts?', 'Feel free to ask', "
-            "'Please interrupt me'). List specific instances with timestamps. "
-            "If found → Yes; if none and session has interaction → No; otherwise Unclear."
-        ),
+            "'Please interrupt me', or similar invitations). List specific instances with timestamps. "
+            "→ Yes if at least one clear encouragement is found. "
+            "→ No if none found AND there is evidence of learner interaction or opportunity for questions "
+            "(e.g., learners asked questions anyway). "
+            "→ Unclear if none found AND no learner interaction/opportunity (e.g., pure lecture with no questions asked)."
+            ),
     },
     {
     "question": "Was there any learner who hijacked the session by asking too many questions?",
@@ -109,5 +112,5 @@ QUESTIONS: List[Dict[str, str]] = [
 
     
 
-    # Add more questions here as needed
+    # Add more questions here  
 ]
